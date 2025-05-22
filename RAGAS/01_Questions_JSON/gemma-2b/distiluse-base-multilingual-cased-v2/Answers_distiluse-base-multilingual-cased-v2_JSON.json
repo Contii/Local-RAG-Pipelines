@@ -1,0 +1,126 @@
+[
+  {
+    "question": "Quais os dias e horarios da semana em que acontecem as aulas da disciplina Árvores e Grafos?",
+    "answer": "Não há informações sobre os dias e horários da semana em que acontecem as aulas da disciplina Árvores e Grafos no contexto.",
+    "contexts": [
+      "O professor Evando Carlos Pizzini ministra a disciplina Árvores E Grafos (COM1014) para a turma CC3 no formato Presencial.\nHorários:\n- Quinta-feira: t3 (14:40-15:30), t4 (15:50-16:40) - Sala L18\n- Terca-feira: t4 (15:50-16:40), t5 (16:40-17:30) - Sala L18",
+      "O professor Cesar Angonese ministra a disciplina Fundamentos De Programação (COM1006) para a turma CC1 no formato Presencial.\nHorários:\n- Segunda-feira: t4 (15:50-16:40), t5 (16:40-17:30) - Sala I25\n- Sexta-feira: t1 (13:00-13:50), t2 (13:50-14:40) - Sala I25\n- Terca-feira: t4 (15:50-16:40), t5 (16:40-17:30) - Sala I25",
+      "O professor Dayse Grassi Bernardon ministra a disciplina Leitura E Escrita Acadêmica (HLA1001) para a turma ALI1 no formato Presencial.\nHorários:\n- Quinta-feira: m2 (08:20-09:10), m3 (09:10-10:00) - Sala L21\n- Segunda-feira: t4 (15:50-16:40), t5 (16:40-17:30) - Sala I42\n- Terca-feira: m2 (08:20-09:10), m3 (09:10-10:00), m4 (10:20-11:10), m5 (11:10-12:00) - Sala I11",
+      "O professor Paloma Neves De Oliveira ministra a disciplina Química Geral E Inorgânica (QUI1001) para a turma AMB1 no formato Presencial.\nHorários:\n- Segunda-feira: m4 (10:20-11:10), m5 (11:10-12:00) - Sala B\n- Sexta-feira: n1 (18:40-19:30), n2 (19:30-20:20), n3 (20:20-21:10), n4 (21:20-22:10) - Sala L33",
+      "O professor Gabriel Matsuda ministra a disciplina Topografia (AMB1016) para a turma AMB3 no formato Presencial.\nHorários:\n- Quarta-feira: t1 (13:00-13:50), t2 (13:50-14:40), t3 (14:40-15:30) - Sala H36"
+    ],
+    "ground_truth": [
+      "Quinta-feira: t3 (14:40-15:30), t4 (15:50-16:40) - Sala L18",
+      "Terca-feira: t4 (15:50-16:40), t5 (16:40-17:30) - Sala L18"
+    ],
+    "metadata": {
+      "embedding_model": "distiluse-base-multilingual-cased-v2",
+      "process_time": 4.054027080535889
+    }
+  },
+  {
+    "question": "A disciplina Aspectos Formais Da Computacao acontece de manhã ou de tarde?",
+    "answer": "Esta informação não está disponível no contexto, por isso não posso fornecer uma resposta.",
+    "contexts": [
+      "O professor Cesar Angonese ministra a disciplina Fundamentos De Programação (COM1006) para a turma CC1 no formato Presencial.\nHorários:\n- Segunda-feira: t4 (15:50-16:40), t5 (16:40-17:30) - Sala I25\n- Sexta-feira: t1 (13:00-13:50), t2 (13:50-14:40) - Sala I25\n- Terca-feira: t4 (15:50-16:40), t5 (16:40-17:30) - Sala I25",
+      "O professor Cesar Alfredo Cardoso ministra a disciplina Fundamentos De Programação De Computadores (COM1002) para a turma ALI3 no formato Presencial.\nHorários:\n- Segunda-feira: m1 (07:30-08:20), m2 (08:20-09:10), m3 (09:10-10:00), t1 (13:00-13:50), t2 (13:50-14:40), t3 (14:40-15:30) - Sala L13",
+      "O professor Ricardo Sobjak ministra a disciplina Tópicos Avançados Em Computação (CC58D) para a turma CC8 no formato Presencial.\nHorários:\n- Quarta-feira: m1 (07:30-08:20), m2 (08:20-09:10), m3 (09:10-10:00) - Sala L16\n- Quinta-feira: m2 (08:20-09:10), m3 (09:10-10:00) - Sala L16",
+      "O professor Evando Carlos Pizzini ministra a disciplina Teoria Da Computação (COM1025) para a turma CC5 no formato Presencial.\nHorários:\n- Quinta-feira: t1 (13:00-13:50), t2 (13:50-14:40) - Sala L15\n- Segunda-feira: t1 (13:00-13:50), t2 (13:50-14:40), t3 (14:40-15:30) - Sala L15",
+      "O professor Evando Carlos Pizzini ministra a disciplina Aspectos Formais Da Computação (CC56E) para a turma CC6 no formato Presencial.\nHorários:\n- Segunda-feira: m4 (10:20-11:10), m5 (11:10-12:00) - Sala L15\n- Terca-feira: m1 (07:30-08:20) - Sala L15"
+    ],
+    "ground_truth": [
+      "de manhã"
+    ],
+    "metadata": {
+      "embedding_model": "distiluse-base-multilingual-cased-v2",
+      "process_time": 3.1816036701202393
+    }
+  },
+  {
+    "question": "Qual a turma e a sala da disciplina Teoria Da Computação?",
+    "answer": "CC5, Sala L15",
+    "contexts": [
+      "O professor Evando Carlos Pizzini ministra a disciplina Teoria Da Computação (COM1025) para a turma CC5 no formato Presencial.\nHorários:\n- Quinta-feira: t1 (13:00-13:50), t2 (13:50-14:40) - Sala L15\n- Segunda-feira: t1 (13:00-13:50), t2 (13:50-14:40), t3 (14:40-15:30) - Sala L15"
+    ],
+    "ground_truth": [
+      "Turma: CC5",
+      "Sala: L15"
+    ],
+    "metadata": {
+      "embedding_model": "distiluse-base-multilingual-cased-v2",
+      "process_time": 1.0780301094055176
+    }
+  },
+  {
+    "question": "A qual departamento pertence o professor Aikes?",
+    "answer": "Não mentiona-se na informação.",
+    "contexts": [
+      "O professor Amauri Massochin pertence ao departamento DAELE e está ativo no período 2025/1.",
+      "O professor Daiene De Mello Schaefer ministra a disciplina Fundamentos Da Termodinâmica (FIS1002) para a turma ALI3 no formato Presencial.\nHorários:\n- Quinta-feira: m1 (07:30-08:20), m2 (08:20-09:10), m4 (10:20-11:10), m5 (11:10-12:00), t4 (15:50-16:40), t5 (16:40-17:30) - Sala H35",
+      "O professor Eliane Pereira ministra a disciplina Matemática Univariável (MAT1003) para a turma ELE2 no formato Presencial.\nHorários:\n- Quinta-feira: m2 (08:20-09:10), m3 (09:10-10:00), t4 (15:50-16:40), t5 (16:40-17:30) - Sala L42\n- Sexta-feira: m2 (08:20-09:10), m3 (09:10-10:00), t1 (13:00-13:50), t2 (13:50-14:40) - Sala L42",
+      "O professor Thiago Edwiges pertence ao departamento DAAMB e está ativo no período 2025/1.",
+      "O professor - CURSO APOLO pertence ao departamento SEGEA e está ativo no período 2025/1."
+    ],
+    "ground_truth": [
+      "DACOM"
+    ],
+    "metadata": {
+      "embedding_model": "distiluse-base-multilingual-cased-v2",
+      "process_time": 1.797997236251831
+    }
+  },
+  {
+    "question": "A qual departamento pertence o professor Jorge Aikes Junior?",
+    "answer": "DACOM",
+    "contexts": [
+      "O professor Jorge Aikes Junior pertence ao departamento DACOM e está ativo no período 2025/1.",
+      "O professor Jorge Aikes Junior ministra a disciplina Sistemas Inteligentes Aplicados (CC57A) para a turma CC7 no formato Presencial.\nHorários:\n- Quinta-feira: t4 (15:50-16:40), t5 (16:40-17:30) - Sala L16\n- Terca-feira: t4 (15:50-16:40), t5 (16:40-17:30) - Sala L16",
+      "O professor Jorge Aikes Junior ministra a disciplina Construção De Compiladores (CC57B) para a turma CC7 no formato Presencial.\nHorários:\n- Quinta-feira: t2 (13:50-14:40), t3 (14:40-15:30) - Sala L16\n- Terca-feira: t2 (13:50-14:40), t3 (14:40-15:30) - Sala L16",
+      "O professor Jorge Aikes Junior ministra a disciplina Realidade Virtual (OP63F) para a turma CC8 no formato Presencial.\nHorários:\n- Segunda-feira: m4 (10:20-11:10), m5 (11:10-12:00) - Sala L16\n- Terca-feira: m2 (08:20-09:10), m3 (09:10-10:00) - Sala L16"
+    ],
+    "ground_truth": [
+      "DACOM"
+    ],
+    "metadata": {
+      "embedding_model": "distiluse-base-multilingual-cased-v2",
+      "process_time": 1.4439496994018555
+    }
+  },
+  {
+    "question": "Quais as disciplinas o professor Jorge Aikes Junior ministra?",
+    "answer": "- CC57A\n- CC57B\n- OP63F",
+    "contexts": [
+      "O professor Jorge Aikes Junior pertence ao departamento DACOM e está ativo no período 2025/1.",
+      "O professor Jorge Aikes Junior ministra a disciplina Sistemas Inteligentes Aplicados (CC57A) para a turma CC7 no formato Presencial.\nHorários:\n- Quinta-feira: t4 (15:50-16:40), t5 (16:40-17:30) - Sala L16\n- Terca-feira: t4 (15:50-16:40), t5 (16:40-17:30) - Sala L16",
+      "O professor Jorge Aikes Junior ministra a disciplina Construção De Compiladores (CC57B) para a turma CC7 no formato Presencial.\nHorários:\n- Quinta-feira: t2 (13:50-14:40), t3 (14:40-15:30) - Sala L16\n- Terca-feira: t2 (13:50-14:40), t3 (14:40-15:30) - Sala L16",
+      "O professor Jorge Aikes Junior ministra a disciplina Realidade Virtual (OP63F) para a turma CC8 no formato Presencial.\nHorários:\n- Segunda-feira: m4 (10:20-11:10), m5 (11:10-12:00) - Sala L16\n- Terca-feira: m2 (08:20-09:10), m3 (09:10-10:00) - Sala L16"
+    ],
+    "ground_truth": [
+      "Construção De Compiladores",
+      "Realidade Virtual",
+      "Sistemas Inteligentes Aplicados"
+    ],
+    "metadata": {
+      "embedding_model": "distiluse-base-multilingual-cased-v2",
+      "process_time": 2.3430087566375732
+    }
+  },
+  {
+    "question": "Qual professor ministra a disciplina de Realidade Virtual?",
+    "answer": "O professor Jorge Aikes Junior ministra a disciplina de Realidade Virtual.",
+    "contexts": [
+      "O professor Jorge Aikes Junior ministra a disciplina Realidade Virtual (OP63F) para a turma CC8 no formato Presencial.\nHorários:\n- Segunda-feira: m4 (10:20-11:10), m5 (11:10-12:00) - Sala L16\n- Terca-feira: m2 (08:20-09:10), m3 (09:10-10:00) - Sala L16",
+      "O professor Ricardo Sobjak ministra a disciplina Tópicos Avançados Em Computação (CC58D) para a turma CC8 no formato Presencial.\nHorários:\n- Quarta-feira: m1 (07:30-08:20), m2 (08:20-09:10), m3 (09:10-10:00) - Sala L16\n- Quinta-feira: m2 (08:20-09:10), m3 (09:10-10:00) - Sala L16",
+      "O professor Cesar Angonese ministra a disciplina Fundamentos De Programação (COM1006) para a turma CC1 no formato Presencial.\nHorários:\n- Segunda-feira: t4 (15:50-16:40), t5 (16:40-17:30) - Sala I25\n- Sexta-feira: t1 (13:00-13:50), t2 (13:50-14:40) - Sala I25\n- Terca-feira: t4 (15:50-16:40), t5 (16:40-17:30) - Sala I25",
+      "O professor Daiene De Mello Schaefer ministra a disciplina Fundamentos Da Termodinâmica (FIS1002) para a turma ALI3 no formato Presencial.\nHorários:\n- Quinta-feira: m1 (07:30-08:20), m2 (08:20-09:10), m4 (10:20-11:10), m5 (11:10-12:00), t4 (15:50-16:40), t5 (16:40-17:30) - Sala H35",
+      "O professor Fausto Pinheiro Da Silva ministra a disciplina Álgebra Linear (MAT1004) para a turma BQLQ3 no formato Presencial.\nHorários:\n- Sexta-feira: m3 (09:10-10:00), m4 (10:20-11:10), m5 (11:10-12:00), n3 (20:20-21:10), n4 (21:20-22:10), n5 (22:10-23:00) - Sala L21"
+    ],
+    "ground_truth": [
+      "Jorge Aikes Junior"
+    ],
+    "metadata": {
+      "embedding_model": "distiluse-base-multilingual-cased-v2",
+      "process_time": 3.0280022621154785
+    }
+  }
+]

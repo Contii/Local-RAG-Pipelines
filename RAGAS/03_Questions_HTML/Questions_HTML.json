@@ -1,0 +1,40 @@
+[
+  {
+    "question": "Qual documento Regulamenta a oferta de cursos de graduação na modalidade de Educação a Distância (EaD) e a oferta de carga horária na modalidade de EaD nos cursos de graduação presenciais da Universidade Tecnológica Federal do Paraná.",
+    "ground_truth": [
+      "A Resolução COGEP/UTFPR Nº 181, de 9 de agosto de 2022."
+    ]
+  },
+  {
+    "question": "Qual documento Regulamenta as atividades complementares (ACs) dos cursos de graduação?",
+    "ground_truth": [
+      "A Resolução COGEP/UTFPR Nº 179, de 4 de agosto de 2022."
+    ]
+  },
+  {
+    "question": "O que resolve a Resolução COGEP/UTFPR Nº 167, de 24 de junho de 2022?",
+    "ground_truth": [
+      "Aprova a proposta de creditação curricular das atividades acadêmicas de extensão (AAEs) nos cursos de graduação da Universidade Tecnológica Federal do Paraná - UTFPR"    
+    ]
+  },
+  {
+    "question": "O que resolve a Resolução nº 36/2020 - COGEP?",
+    "ground_truth": [
+      "Aprova o Regulamento para Concessão do Auxílio Estudantil Emergencial para Estudantes Matriculados nos Cursos Regulares da UTFPR"
+    ]
+  },
+  {
+    "question": "Quais são as atribuições do Presidente do Colegiado de Curso?",
+    "ground_truth": [
+      "Convocar e presidir as reuniões, com direito a voto de qualidade (voto de desempate);",
+      "Designar Secretário;",
+      "Aprovar a ata das reuniões anteriores, homologando-as no Colegiado;",
+      "Elaborar a pauta das reuniões, com assuntos de interesse do Curso ou encaminhados pelos membros do Colegiado ou docentes/servidores técnico-administrativos vinculados ao Curso;",
+      "Distribuir os processos para a análise do Colegiado, nomeando seus relatores com antecedência mínima de 72 (setenta e duas) horas da reunião;",
+      "Constituir Comissões;",
+      "Baixar atos visando à organização interna;",
+      "Dar posse aos membros do Colegiado e,",
+      "Indicar comissão para a eleição."
+    ]
+  }
+]

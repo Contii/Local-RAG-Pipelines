@@ -1,0 +1,48 @@
+[
+  {
+    "question": "Quais os dias e horarios da semana em que acontecem as aulas da disciplina Árvores e Grafos?",
+    "ground_truth": [
+      "Quinta-feira: t3 (14:40-15:30), t4 (15:50-16:40) - Sala L18",
+      "Terca-feira: t4 (15:50-16:40), t5 (16:40-17:30) - Sala L18"
+    ]
+  },
+  {
+    "question": "A disciplina Aspectos Formais Da Computacao acontece de manhã ou de tarde?",
+    "ground_truth": [
+      "de manhã"
+    ]
+  },
+  {
+    "question": "Qual a turma e a sala da disciplina Teoria Da Computação?",
+    "ground_truth": [
+      "Turma: CC5",
+      "Sala: L15"
+    ]
+  },
+  {
+    "question": "A qual departamento pertence o professor Aikes?",
+    "ground_truth": [
+      "DACOM"
+    ]
+  },
+  {
+    "question": "A qual departamento pertence o professor Jorge Aikes Junior?",
+    "ground_truth": [
+      "DACOM"
+    ]
+  },
+  {
+    "question": "Quais as disciplinas o professor Jorge Aikes Junior ministra?",
+    "ground_truth": [
+      "Construção De Compiladores",
+      "Realidade Virtual",
+      "Sistemas Inteligentes Aplicados"
+    ]
+  },
+  {
+    "question": "Qual professor ministra a disciplina de Realidade Virtual?",
+    "ground_truth": [
+      "Jorge Aikes Junior"
+    ]
+  }
+]

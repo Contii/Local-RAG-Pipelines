@@ -1,0 +1,151 @@
+[
+  {
+    "question": "Qual é a ementa da disciplina Redes de Computadores 1?",
+    "answer": "A ementa da disciplina é sobre as principais conceitos e componentes de redes de computadores, como arquitetura, componentes, ferramentas e tecnologias, junto com o desenvolvimento de habilidades básicas de comunicação e projeto em redes.",
+    "contexts": [
+      "Informações da disciplina CC55F Redes De Computadores 1. Carga Horária 60 Horas",
+      "Conhecer os conceitos, a arquitetura e componentes de redes de computadores.",
+      "Evolução das redes, Modelo em camadas OSI e TCP/IP, Arquiteturas das redes, Meios de comunicação de dados, Redes LAN e WAN, Padronização IEEE. Tecnologias Ethernet suas variantes. Conceitos de Switching. Protocolo IP, operação e endereçamento.",
+      "Conceituação de redes de computadores, Protocolos e serviços de comunicação. internet. O modelo do comunicação em Camadas. Tendências em Redes.",
+      "Meios de transmissão. A plataforma para comunicações. LANs, WAN,s e Redes Interconectadas. Meio Fios e Cabos de Cobre. Meio Comunicação sem fio. Meio Fibra óptica. Funções da Camada de Transporte. O protocolo TCP Comunicação com confiabilidade. Gerenciamento de",
+      "Camada de Transporte OSI, Princípios do protocolo TCP/IP. Sessões TCP. O Protocolo UDP Comunicação com Baixo Overhead. Protocolo IPv",
+      "4. Comunicação com camadas superior e inferior.",
+      "Camada de Rede OSI. Roteamento - Como Nossos Pacotes de Dados são Gerenciados. Processos de Roteamento: Como as Rotas são Aprendidas. Endereços IPv",
+      "4. Endereços pra",
+      "Endereçamento de Rede IPv",
+      "4. Propósitos Diferentes. Atribuição de Endereços. Endereçamento IP e Subrede. Teste da Camada de Rede.",
+      "Camada de Enlace. Camada de Enlace - Acesso ao Meio (mídia). Técnicas de Controle de Acesso ao Meio. Controle de Acesso ao Meio Endereçamento e Enquadramento de Dados. Subcamas LLC e MAC. Camada Física Sinais de Comunicação. Sinalização e",
+      "Camada Física do Modelo OSI. Codificação Física: Representação de Bits. Meios Físicos Conectando a Comunicação. Visão Geral Ethernet.",
+      "Ethernet. Ethernet/Fast/Giga Comunicação via LAN. O Quadro Ethernet. Controle de Acesso ao Meio Ethernet. Camada Física da Ethernet. Hubs e Switches. Protocolo de Resolução de Endereço (ARP). LANs Realizando a Conexão Física. Normas EIA/TIA. Cabling.",
+      "Padrões de redes. Padrões IEEE. Conceitos de cabeamento estruturados. Interconexões de Dispositivos.",
+      "FOROUZAN, Behrouz A. Comunicação de dados e redes de computadores. 4. ed. São Paulo, SP: McGraw-Hill, 2008. xxxiv, 1134 p. ISBN 9788586804885. TORRES, Gabriel. Redes de computadores. 2. ed. Rio de Janeiro, RJ: Novaterra, 2014. xxviii, 1004 p. ISBN 9788561893286. TANENBAUM, Andrew S.,; WETHERALL, D. Redes de computadores. 5. ed. São Paulo, SP: Pearson, 2011. xvi, 582 p. ISBN 9788576059240.",
+      "MAIA, Luiz Paulo. Arquitetura de redes de computadores. 2. ed. Rio de Janeiro, RJ: LTC, 2013. 272 p. ISBN 9788521622543. SPURGEON, Charles E.. Ethernet: o guia definitivo. Rio de Janeiro: Campus, 2000. 478p. ISBN 8535206590 Bibliografia Complementar OLIVEIRA, Gorki Starlin da Costa. Redes de computadores comunicação de dados TCP/IP: conceitos, protocolos e uso. Rio de Janeiro: Alta Books, 2004. 224p. ISBN 8576080567. FITZGERALD, Jerry; DENNIS, Alan. Comunicações de dados empresariais e redes. 10. ed. Rio de Janeiro, RJ: LTC, 2010. xv, 459 p. ISBN 9788521617747."
+    ],
+    "ground_truth": [
+      "Evolução das redes",
+      "Modelo em camadas OSI e TCP/IP",
+      "Arquiteturas das redes",
+      "Meios de comunicação de dados",
+      "Redes LAN e WAN",
+      "Padronização IEEE",
+      "Tecnologias Ethernet suas variantes",
+      "Conceitos de Switching",
+      "Protocolo IP",
+      "operação e endereçamento"
+    ],
+    "metadata": {
+      "embedding_model": "all-MiniLM-L6-v2",
+      "process_time": 6.030996561050415
+    }
+  },
+  {
+    "question": "Qual o nome da disciplina de Código OP63J?",
+    "answer": "Esta informação não está presente na provideda.",
+    "contexts": [
+      "Informações da disciplina OP63C Aplicações Com Objetos Distribuídos. Carga Horária 60 Horas",
+      "Identificar e projetar sistemas baseados em objetos distribuídos. Selecionar arquiteturas e tecnologias adequadas para o desenvolvimento de sistemas distribuídos com objetos. Implementar sistemas distribuídos em multicamadas.",
+      "Paradigmas de linguagens de programação distribuída. Técnicas de descrição e implementação de sistemas distribuídos. Ambientes de suporte ao desenvolvimento de sistemas distribuídos. Implementação de arquitetura Cliente/Servidor, Estudo de casos.",
+      "Paradigmas de linguagens de programação distribuída. Conceito de Objetos distribuídos, características das linguagens de programação com suporte ao desenvolvimento distribuído. Aplicações cliente/servidor Multicamadas Distribuídas (",
+      "2",
+      "Técnicas de descrição e implementação de sistemas distribuídos. camadas,",
+      "camadas,",
+      "3/",
+      "camadas Web Based, n camadas); Desenvolvimento Baseado em Componentes. Comunicação distribuída,",
+      "Ambientes de suporte ao desenvolvimento de sistemas distribuídos. frameworks. RMI, Persistência de Objetos, Aplicações Web, Enterprise Java",
+      "Implementação de arquitetura Cliente/Servidor. Beans e Serviços Web baseados em WSDL e REST. Desenvolvimento de aplicações",
+      "Estudo de casos. distribuídas utilizando tecnologias de orientação à objetos.",
+      "COULOURIS, George F.; DOLLIMORE, Jean; KINDBERG, Tim; BLAIR, Gordon (Autor). Sistemas distribuídos: conceitos e projeto. 5. ed. Porto Alegre, RS: Bookman, 2013. xvi, 1048 p. ISBN 9788582600535. KALIN, Martin. Java Web Services: implementando . Rio de Janeiro, RJ: Alta Books, 2010. xv, 295 p. ISBN 978-85-7608-424- 2. TANENBAUM, Andrew S.; STEEN, Maarten van (Autor). Sistemas distribuídos: princípios e paradigmas. 2. ed. São Paulo, SP: Pearson Prentice Hall, 2007. 402 p. ISBN 9788576051428.",
+      "PANDA, Debu; RAHMAN, Reza; LANE, Derek. Ejb 3 em ação. 2. ed. rev. Rio de Janeiro, RJ: Alta Book, 2009. xxviii, 522 p. POTTS, Stephen; KOPACK, Mike (Autor). Aprenda em 24 horas web services. Rio de Janeiro: Campus, 2003. 367 p. ISBN 85-352-1321-X SILVA, Alex de Araújo; GOMIDE, Carlos Francisco; PETRILLO, Fábio (Autor.) Metodologia e projeto de software orientados a objetos: modelando, projetando e desenvolvendo sistemas com UML e componentes distribuídos. São Paulo: Érica, 2003. 230 p. ISBN 85-7194-978-6 GOMES, Daniel Adorno. Web services SOAP em java: guia prático para o desenvolvimento de web services em java. São Paulo: Novatec, 2010. 183 p. ISBN 9788575222188. MENDES, Douglas Rocha. Programação Java em ambiente distribuido: ênfase no mapeamento objeto-relacional com JPA, EJB e Hibernate. São Paulo, SP: Novatec, 2011. 495 p. ISBN 9788575222621."
+    ],
+    "ground_truth": [
+      "Data Warehouse e Data Mining"
+    ],
+    "metadata": {
+      "embedding_model": "all-MiniLM-L6-v2",
+      "process_time": 2.926997184753418
+    }
+  },
+  {
+    "question": "Qual o nome da disciplina de Código CC56E?",
+    "answer": "O nome da disciplina de Código CC56E é CC56E Aspectos Formais Da Computação.",
+    "contexts": [
+      "Informações da disciplina CC56E Aspectos Formais Da Computação. Carga Horária 45 Horas",
+      "Dar ao aluno noção formal de algoritmo, complexidade e computabilidade e do problema de decisão, de modo a deixá-lo consciente das limitações da ciência da computação. Aparelhá-lo com as ferramentas de modo a habilitá-lo a melhor solucionar problemas com o auxílio do computador e técnicas de computação.",
+      "Problemas solucionáveis e não solucionáveis. Aplicação da teoria dos grafos. Complexidade Computacional. Modelos equivalentes a máquina de Turing: autômato com duas pilhas, máquina de Post, máquina de registradores. Classes de problemas.",
+      "Complexidade Computacional. algoritmos. Complexidade no melhor caso. Complexidade de caso médio. Complexidade no pior caso.",
+      "Modelos equivalentes à máquina de Turing. Revisão das Máquinas de Turing Universais e suas generalizações. Autômato com duas pilhas. Máquina de Post Máquina de registradores.",
+      "Classes de problemas. Classe P. Classe NP. Classe NP- completo. Tese de Church. Decidibilidade.",
+      "Problemas solucionáveis e não solucionáveis. Redutibilidade. Intratabilidade.",
+      "Aplicação da teoria dos grafos. Solução de problemas computacionais por meio de grafos.",
+      "ROSA, João Luís Garcia. Linguagens formais e autômatos. Rio de Janeiro, RJ: LTC, 2010. 146 p. ISBN 9788521617518. DAVIS, Martin D.; SIGAL, Ron; WEYUKER, Elaine J. Computability, complexity and languages: fundamentals of theoretical computer science . 2. ed. San Diego: Morgan Kaufmann, 1994. 609 p. (Computer sience and scientific computing). ISBN 0-12- 206382-1. HOPCROFT, John E.; ULLMAN, Jeffrey D.; MOTWANI, Rajeev. Introdução à teoria de autômatos, linguagens e computação. Rio de Janeiro, RJ: Campus, c2003. 560 p. ISBN 8535210725.",
+      "VIEIRA, Newton José. Introdução aos fundamentos da computação: linguagens e máquinas. São Paulo: Thomson, 2006. xiii, 319 p. ISBN 8522105081. MENEZES, Paulo Blauth. Matemática discreta para computação e informática. 4. ed. Porto Alegre, RS: Bookman, 2013. 348 p. (Livros didáticos (Universidade Federal do Rio Grande do Sul. Instituto de Informática) ; n. 16). ISBN 9788582600245. TOSCANI, Laira Vieira; VELOSO, Paulo A. S. Complexidade de algoritmos: análise, projeto e métodos. 3. ed. Porto Alegre, RS: Bookman, 2012. 262 p. (Livros didáticos informática UFRGS ; 13). ISBN 9788540701380. SIPSER, Michael. Introdução à teoria da computação. São Paulo, SP: Thomson Learning, c2006. xxi, 459 p. ISBN 9788522104994. MENEZES, Paulo Blauth. Linguagens formais e autômatos. 6. ed. Porto Alegre, RS: Bookman, 2011. 256 p. (Livros didáticos (Universidade Federal do Rio Grande do Sul. Instituto de Informática) ; 3). ISBN 9788577807659."
+    ],
+    "ground_truth": [
+      "Aspectos Formais da Computação"
+    ],
+    "metadata": {
+      "embedding_model": "all-MiniLM-L6-v2",
+      "process_time": 4.025017738342285
+    }
+  },
+  {
+    "question": "Quais os tópicos do conteúdo programático da disciplina Segurança Em Redes De Computadores?",
+    "answer": "Esta informação não está presente no contexto, por isso, não posso fornecer uma resposta às suas perguntas.",
+    "contexts": [
+      "Informações da disciplina CC51D Introdução À Ciência Da Computação. Carga Horária 30 Horas",
+      "Compreender os conceitos básicos da ciência da computação, correlacionando os conhecimentos que serão construídos no decorrer do curso, conhecendo as diferentes plataformas computacionais e as tecnologias de hardware e software utilizadas nestas plataformas",
+      "Evolução da Ciência da Computação. Conceitos básicos sobre sistemas computacionais: introdução à Arquitetura e Organização de Computadores e noções de sistemas operacionais, utilitários, redes, tipos de linguagens, compiladores e interpretadores. Conceitos de ciência, tecnologia e arte. A ciência, o curso e a profissão de bacharel em ciência da computação. Computação e o meio ambiente. A função social do profissional. Ética na profissão.",
+      "A ciência, o curso e a profissão de bacharel em ciência da computação. A função social do profissional. Ética na profissão. mercado de trabalho; Atividades do profissional de computação junto a sociedade; Conceituar ética; Código de ética do profissional; Regulamentação da profissão; Origem e histórico (do ábaco aos computadores digitais: tecnologias e modelos conceituais)-Geração de",
+      "Evolução da Ciência da Computação. computadores; Conceitos Básicos de Computação: dados e informação - bit, byte, programa, instruções, memória, unidade central de processamento (UCP), periféricos. Evolução da internet. Conceitos básicos de sistemas. Software básico e software aplicativo (evolução). Evolução dos Sistemas Operacionais: sistemas",
+      "Conceitos básicos sobre sistemas computacionais. monoprocessados e multiprocessados. Arquitetura dos sistemas operacionais: software, shell, kernel e utilitários . Armazenamento dos dados. Arquitetura de Computadores. Redes e Comunicação. Conceitos de Introdução à Arquitetura e Organização de Computadores e noções de sistemas",
+      "operacionais, utilitários, redes, tipos de linguagens, compiladores e interpretadores. Algoritmos e suas aplicabilidades. Linguagens de programação (tipos). Metodologias de linguagens: interpretadas, compiladas e híbridas.",
+      "Conceitos de ciência, tecnologia e arte. Ciência, Inteligência Artificial, Visão Computacional (Computação Gráfica e Processamento de Imagens). Arte e robótica.",
+      "Computação e o meio ambiente. Impacto ambiental da computação; Lixo eletrônico Computação aplicada a gestão do meio ambiente.",
+      "FEDELI, Ricardo Daniel; POLLONI, Enrico Giulio Franco; PERES, Fernando Eduardo. Introdução à ciência da computação. 2. ed. São Paulo, SP: Cengage Learning, 2011. xvi, 250 p. ISBN 9788522108459. ALBERTIN, Alberto Luiz. Comércio eletrônico: modelo, aspectos e contribuições de sua aplicação. 6. ed. atual. e ampl. São Paulo, SP: Atlas, 2010. 306 p. ISBN 85-224-3754-8. DALE, Nell B.; LEWIS, John. Ciência da computação. 4. ed. Rio de Janeiro, RJ: LTC, 2011. xx, 436 p. ISBN 9788521617419.",
+      "CARVALHO, Luís Alfredo Vidal de. Datamining: a mineração de dados no marketing, medicina, economia, engenharia e administração. São Paulo: Érica, 2001. 234p. ISBN 857194766X TANENBAUM, Andrew S.; WOODHULL, Albert S. Sistemas operacionais: projeto e implementação. 2. ed. Porto Alegre: Bookman, 2000. x, 759 p. + 1 CD-ROM (4¾ pol.) ISBN 8573075309. MANZANO, José Augusto N. G.; OLIVEIRA, Jayr Figueiredo de. Algoritmos: lógica para desenvolvimento de programação de computadores. 25. ed. rev. São Paulo, SP: Érica, 2011. 320 p. ISBN 9788536502212. MOKARZEL, Fábio Carneiro; SOMA, Ney Yoshihiro. Introdução à ciência da computação. Rio de Janeiro, RJ: Elsevier, 2008. xiv, 429 p. ISBN 9788535218794. MASIERO, Paulo Cesar. Ética em computação. São Paulo, SP: EDUSP, c2000. 213 p. (Acadêmica ; 32). ISBN 85-314-0575-0."
+    ],
+    "ground_truth": [
+      "1 - Segurança de Dados e Criptologia.",
+      "2 - Segurança Digital.",
+      "3 - Métodos de criptografia e criptoanálise.",
+      "4 - Implementação de Firewall.",
+      "5 - Gerência e Desempenho."
+    ],
+    "metadata": {
+      "embedding_model": "all-MiniLM-L6-v2",
+      "process_time": 4.681000709533691
+    }
+  },
+  {
+    "question": "Qual a bibliografia básica da disciplina Redes Neurais Artificiais?",
+    "answer": "A bibliografia básica da disciplina é \"Redes neurais artificiais: fundamentos e aplicações\" por I. Goodfellow, Y., Bengio e Courville (2016).",
+    "contexts": [
+      "Informações da disciplina OP63P Redes Neurais Artificiais. Carga Horária 60 Horas",
+      "Compreender, manipular e projetar diferentes arquiteturas de Redes Neurais Artificiais. Ao final da disciplina o aluno deve estar capacitado a entender e aplicar Redes Neurais Artificiais nas diversas áreas de aplicação desta área de pesquisa.",
+      "História das redes neurais. O modelo Perceptron. Redes MultiLayer Perceptrons clássicas. Funções de ativação neural. Funções de custo. Redes Profundas. Redes recorrentes. Redes convolucionais. Redes Gerativas Adversárias. Algoritmo Gradiente Descendente. Algoritmo BackPropagation. Aplicações avançadas de redes neurais.",
+      "História das redes neurais. Evolução da área nos séculos XX e XXI.",
+      "O modelo Perceptron. Sinapses (pesos), biases, potencial de ativação. Somador e ativação Perceptron. Problemas linearmente separáveis e lógicos. Treinamento Perceptron. Redes Multicamada. Aproximadores Universais de Função. Espaço de Instâncias. Problemas Não-",
+      "Redes MultiLayer Perceptrons clássicas. linearmente separáveis. Poder generalizador das redes em relação ao número de camadas.",
+      "Funções de ativação neural. Funções Linear, Passo, Sigmoide Logística, Tangente Hiperbólica, ReLU e suas variantes.",
+      "Funções de custo. Erros Quadráticos Médios e Entropia Cruzada. Problema da dissipação do gradiente e técnicas para combatê-lo.",
+      "Redes profundas. Problema da dimensionalidade e sua mitigação. Aprendizado por manifolds.",
+      "Redes Recorrentes. Redes recorrentes clássicas. Redes inspiradas em portas eletrônicas. Redes de Memória de Longo e Curto Prazo (LSTM). Hierarquia de Conceitos. Aplicações de redes neurais na visão",
+      "Redes Convolucionais. computacional. Arquiteturas convolucionais (ex: Inception e ResNets).",
+      "Redes Gerativas Adversárias. Sub-rede discriminativa. Sub-rede gerativa. Aplicações de redes gerativas. Funcionamento do Algoritmo.",
+      "Algoritmo Gradiente Descendente. Cálculo do Gradiente. Espaço de hipóteses. Descida de encosta. Mínimos locais e globais.",
+      "Algoritmo BackPropagation. Fase forward. Fase backward. Ajuste pesos e biases. Autoencoders, geradores de",
+      "Aplicações avançadas de redes neurais. Embedding. Representação Distribuída do Conhecimento.",
+      "KOVÁCS, Zsolt Lászlo. Redes neurais artificiais: fundamentos e aplicações : um texto básico . 4. ed. São Paulo: Livraria da Física, 2006. 174 p. ISBN 8588325144. GOODFELLOW, I.; BENGIO, Y.; ; COURVILLE, A. Deep learning. [S.l.]: MIT press Cambridge, 2016. HAYKIN, Simon S. Redes neurais: princípios e prática. 2. ed. Porto Alegre, RS: Bookman, 2001. 900 p. ISBN 9788573077186.",
+      "FACELI, Katti; LORENA, Ana Carolina; GAMA, João; CARVALHO, André Carlos Ponce de Leon Ferreira. Inteligência artificial: uma abordagem de aprendizagem de máquina. Rio de Janeiro, RJ: LTC, c2011. 378 p. ISBN 9788521618805. BISHOP, Christopher M. Neural networks for pattern recognition. New York, US: Oxford University, 2002. xvii, 482 p. ISBN 9780198538646. RUSSELL, Stuart J.; NORVIG, Peter. Inteligência artificial. Rio de Janeiro, RJ: Elsevier, 2013. 988 p. ISBN 9788535237016."
+    ],
+    "ground_truth": [
+      "KOVÁCS, Zsolt Lászlo. Redes neurais artificiais: fundamentos e aplicações : um texto básico . 4. ed. São Paulo: Livraria da Física, 2006. 174 p. ISBN 8588325144.",
+      "GOODFELLOW, I.; BENGIO, Y.; ; COURVILLE, A. Deep learning. [S.l.]: MIT press Cambridge, 2016.",
+      "HAYKIN, Simon S. Redes neurais: princípios e prática. 2. ed. Porto Alegre, RS: Bookman, 2001. 900 p. ISBN 9788573077186."
+    ],
+    "metadata": {
+      "embedding_model": "all-MiniLM-L6-v2",
+      "process_time": 5.218004465103149
+    }
+  }
+]

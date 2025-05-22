@@ -1,0 +1,100 @@
+[
+  {
+    "question": "Qual documento Regulamenta a oferta de cursos de graduação na modalidade de Educação a Distância (EaD) e a oferta de carga horária na modalidade de EaD nos cursos de graduação presenciais da Universidade Tecnológica Federal do Paraná.",
+    "answer": "Art. 1º do Resolvimento, que define as normas para a oferta, organização e desenvolvimento de cursos na modalidade de Ensino à Distância.",
+    "contexts": [
+      "Art. 1º Aprovar o regulamento da oferta de cursos de graduação na modalidade de Educação a Distância (EaD) e da oferta de carga horária na modalidade de EaD nos cursos de graduação presenciais da Universidade Tecnológica Federal do Paraná (UTFPR), conforme anexo I.",
+      "Art. 1º Ficam instituídas, por meio da presente resolução, as regras para a oferta, organização e o desenvolvimento de cursos na modalidade de Educação a Distância (EaD) e a inserção de carga horária na modalidade de EaD nos cursos presenciais de graduação da UTFPR.",
+      "Art. 12. Os cursos de graduação na modalidade de EaD devem contar com equipe e estrutura acadêmica institucional, garantindo aos discentes da modalidade todos os direitos previstos aos discentes da modalidade de educação presencial, respeitando as particularidades da EaD.",
+      "Art. 19. As turmas das unidades curriculares ou componentes curriculares com carga horária total ou parcial na modalidade de EaD em cursos presenciais devem ofertar vagas aos discentes respeitando regras de quantidade e prioridade estabelecidas no Regulamento da Organização Didático-Pedagógica dos Cursos de Graduação da UTFPR (RODP).",
+      "Art. 13. Os cursos de graduação presenciais podem introduzir em seu PPC a oferta de atividades curriculares na modalidade de EaD, desde que esta oferta não ultrapasse o limite de carga horária total definido por legislação específica em vigor."
+    ],
+    "ground_truth": [
+      "A Resolução COGEP/UTFPR Nº 181, de 9 de agosto de 2022."
+    ],
+    "metadata": {
+      "embedding_model": "neuralmind-bert-base-portuguese-cased",
+      "process_time": 3.6159963607788086
+    }
+  },
+  {
+    "question": "Qual documento Regulamenta as atividades complementares (ACs) dos cursos de graduação?",
+    "answer": "O documento regulamentar as ACs dos cursos de graduação é notável na norma FTP PRATT 05.",
+    "contexts": [
+      "III. A carga horária dos servidores e estudantes participantes da atividade de extensão deve ser justificada pelo volume de atividades executadas por cada um; tal justificativa detalhada deve ser inserida no campo Metodologia do cadastro de registro de extensão disponível no SAP, ou em documento anexo a este. Obs: para eventos de extensão, cursos de extensão e atividades de apoio tecnológico, as atividades de coordenação, apoio técnico e secretaria estão limitadas nos percentuais estabelecidos nas Normas Complementares (UTFPR 2018).",
+      "Art. 16. Os cursos de graduação deverão prever, conforme regulamentação específica da UTFPR e a legislação vigente: I - o estágio curricular obrigatório; II - as atividades de extensão; e III - para os cursos de licenciatura deverão ser previstas as Atividades Práticas como Componente Curricular (APCC).",
+      "Art.1º. Esta instrução tem como objetivo normatizar a participação de servidores como parte de equipes para realização de ofertas e reofertas de turmas de cursos de especialização - lato sensu - da UTFPR, o registro destas atividades e das horas programadas e executadas nos S istemas Corporativos da UTFPR, módulo Extensão.",
+      "Art. 23 22 As unidades curriculares TCC2 e Estágio Curricular Obrigatório (com exceção das licenciaturas) estão autorizadas a continuar suas atividades sem a necessidade de proposição de ADNP ao colegiado de curso.",
+      "ATIVIDADES COMPLEMENTARES. Incluem-se documentos referentes ao planejamento das atividades internas e a definição das atividades externas, que complementam os cursos de graduação e que sejam autorizadas pela instituição de ensino. Enquanto vigora - Guarda Permanente"
+    ],
+    "ground_truth": [
+      "A Resolução COGEP/UTFPR Nº 179, de 4 de agosto de 2022."
+    ],
+    "metadata": {
+      "embedding_model": "neuralmind-bert-base-portuguese-cased",
+      "process_time": 2.891003131866455
+    }
+  },
+  {
+    "question": "O que resolve a Resolução COGEP/UTFPR Nº 167, de 24 de junho de 2022?",
+    "answer": "Não existem informações na resumo que referem-se à Resolução COGEP/UTFPR nº 167, de 24 de junho de 2022.",
+    "contexts": [
+      "Art. 1º O presente documento tem por finalidade regulamentar as atividades desenvolvidas pelos docentes das Carreiras de Magistério Federal do Quadro Permanente da UTFPR durante o período de interstício, enquanto o Regulamento aprovado pela DELIBERAÇÃO COUNI Nº 25/2018, de 14 de setembro de 2018 está sobrestado conforme Resolução COUNI/UTFPR n o 60, de 28 de dezembro de 2021.",
+      "Art. 1º Homologar a RESOLUÇÃO COEMP/UTFPR nº 8, AD REFERENDUM, de 28 de junho de 2022, que indicou Sr. Cesar Lúcio Molitz Allenstein como representante de entidades Científicas, Empresariais ou profissionais, sem vínculo com a UTFPR junto ao Conselho Curador da FUNTEF-PR;",
+      "LUIZA TEODORO LEITE 1198289 Curso de Doutorado em Sustentabilidade Ambiental e Urbana - PPGSAU - Campus Curitiba II – revogar as Portarias de Pessoal GABIR/UTFPR nº 292, de 05 de março de 2024, e nº 358, de 08 de março de 2024.",
+      "Art. 1º Revogar expressamente a INSTRUÇÃO NORMATIVA DIRGRAD-FB/UTFPR nº 2, de 08 de dezembro de 2021 que dispõe sobre as diretrizes para a elaboração dos horários da graduação, no âmbito do campus Francisco Beltrão.",
+      "Art. 1º Homologar a RESOLUÇÃO COUNI/UTFPR/AD REFERENDUM nº 112, de 04 de agosto de 2023, a qual aprova a prorrogação, até 29.02.2024, dos atuais mandatos dos membros dos Conselhos Deliberativos Especializados da UTFPR."
+    ],
+    "ground_truth": [
+      "Aprova a proposta de creditação curricular das atividades acadêmicas de extensão (AAEs) nos cursos de graduação da Universidade Tecnológica Federal do Paraná - UTFPR"
+    ],
+    "metadata": {
+      "embedding_model": "neuralmind-bert-base-portuguese-cased",
+      "process_time": 4.034001111984253
+    }
+  },
+  {
+    "question": "O que resolve a Resolução nº 36/2020 - COGEP?",
+    "answer": "Esta resolução não describe o tema específico da investigação, por isso, não responde essa questão.",
+    "contexts": [
+      "Art. 9º - Caberá ao docente lançar em diário de classe a observação “Lançamento de frequências e atividades remotas conforme critérios de modalidade de ensino estabelecidos pela Resolução 123/2021 - COGEP”.",
+      "Art. 38 – Os casos omissos neste Regulamento no que se referem aos protocolos de pesquisa serão decididos pela Coordenação Geral dos CEP/UTFPR, com base na Resolução 466/2012-CNS/MS e 510/2016-CNS/MS ou em outra legislação que venha substituí-la.",
+      "Art. 37 – Os casos omissos neste Regulamento no que se referem aos protocolos de pesquisa serão decididos pela Coordenação Geral dos CEP/UTFPR, com base na Resolução 466/2012-CNS/MS e 510/2016-CNS/MS ou em outra legislação que venha substituí-la.",
+      "Art. 1º O presente documento tem por finalidade regulamentar as atividades desenvolvidas pelos docentes das Carreiras de Magistério Federal do Quadro Permanente da UTFPR durante o período de interstício, enquanto o Regulamento aprovado pela DELIBERAÇÃO COUNI Nº 25/2018, de 14 de setembro de 2018 está sobrestado conforme Resolução COUNI/UTFPR n o 60, de 28 de dezembro de 2021.",
+      "LIMITE Participação CEP e CEUA UTFPR 40 40 Participação em outros comitês e comissões da DIRPPG/PROPPG em 2020 20 20 Participação como Avaliador de Resumos no SICITE 2020 3 3 Legenda: N.A. – não se aplica."
+    ],
+    "ground_truth": [
+      "Aprova o Regulamento para Concessão do Auxílio Estudantil Emergencial para Estudantes Matriculados nos Cursos Regulares da UTFPR"
+    ],
+    "metadata": {
+      "embedding_model": "neuralmind-bert-base-portuguese-cased",
+      "process_time": 2.780001163482666
+    }
+  },
+  {
+    "question": "Quais são as atribuições do Presidente do Colegiado de Curso?",
+    "answer": "Esta informação não está definida no contexto, portanto, posso não fornecer uma resposta.",
+    "contexts": [
+      "Art. 12 - Caberá ao órgão representativo dos alunos do curso, e na ausência deste, ao Coordenador do Curso, indicar os representantes discentes para o colegiado. Parágrafo único : O mandato dos membros discentes do Colegiado de Curso terá duração de 2 (dois) anos, podendo haver recondução.",
+      "Art. 27. As funções da Secretaria da Comissão Central e da Comissão de Câmpus serão exercidas por servidor(a) técnico-administrativo da UTFPR, com seu nome indicado pelo respectivo Coordenador e homologado pelo Reitor e Diretor-Geral respectivamente.",
+      "Art. 6º. A aplicação deste Regulamento estará sob a responsabilidade, no âmbito de cada Campus, das coordenações, chefias, Diretorias de Graduação e Educação Profissional sob supervisão do Diretor-Geral do Campus.",
+      "Art. 2º Para todos os cursos de graduação do campus Francisco Beltrão, a montagem dos horários de aulas será conduzida pela Secretaria de Gestão Acadêmica (SEGEA), com apoio dos Departamentos Acadêmicos e Coordenações de Curso.",
+      "Art. 2º As Atividades Complementares serão validadas conforme normas, diretrizes e atribuições que constam no Regulamento das Atividades Complementares dos Cursos de Graduação da UTFPR (Resolução n o 61, de 2006 e Resolução n o 56, de 2007 do COEPP), conforme revisado e aprovado pelo Colegiado do Curso."
+    ],
+    "ground_truth": [
+      "Convocar e presidir as reuniões, com direito a voto de qualidade (voto de desempate);",
+      "Designar Secretário;",
+      "Aprovar a ata das reuniões anteriores, homologando-as no Colegiado;",
+      "Elaborar a pauta das reuniões, com assuntos de interesse do Curso ou encaminhados pelos membros do Colegiado ou docentes/servidores técnico-administrativos vinculados ao Curso;",
+      "Distribuir os processos para a análise do Colegiado, nomeando seus relatores com antecedência mínima de 72 (setenta e duas) horas da reunião;",
+      "Constituir Comissões;",
+      "Baixar atos visando à organização interna;",
+      "Dar posse aos membros do Colegiado e,",
+      "Indicar comissão para a eleição."
+    ],
+    "metadata": {
+      "embedding_model": "neuralmind-bert-base-portuguese-cased",
+      "process_time": 2.435981035232544
+    }
+  }
+]

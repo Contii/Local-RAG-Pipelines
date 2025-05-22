@@ -1,0 +1,80 @@
+[
+  {
+    "question": "Quais os dias e horarios da semana em que acontecem as aulas da disciplina Árvores e Grafos?",
+    "answer": "Não mentiona-se no contexto, por isso não posso fornecer a resposta.",
+    "contexts": [
+      "O professor Roger Borges ministra a disciplina Métodos Alternativos Para A Síntese De Materiais (TAM88) para a turma PPGTA no formato Presencial.\nHorários:\n- Quarta-feira: t4 (15:50-16:40), t5 (16:40-17:30) - Sala J31A",
+      "O professor Daniel Walker Tondo ministra a disciplina Quimica 3: Quimica Da Vida, Ambiente E Materiais (QUIM3) [...] \nHorários:[...].",
+      "O professor Carla Cristina Bem ministra a disciplina Tratamento De Águas Para Abastecimento 1 (EM57A) [...] \nHorários:[...].",
+      "Outros 2 chunks irrelevantes."
+    ],
+    "ground_truth": [
+      "Quinta-feira: t3 (14:40-15:30), t4 (15:50-16:40) - Sala L18",
+      "Terca-feira: t4 (15:50-16:40), t5 (16:40-17:30) - Sala L18"
+    ],
+    "metadata": {
+      "embedding_model": "all-MiniLM-L6-v2",
+      "llm_model": "gemma-2b",
+      "process_time": 2.576990842819214
+    }
+  },
+    {
+    "question": "Qual a turma e a sala da disciplina Teoria Da Computação?",
+    "answer": "CC5, Sala L15",
+    "contexts": [
+      "O professor Evando Carlos Pizzini ministra a disciplina Teoria Da Computação (COM1025) para a turma CC5 no formato Presencial.\nHorários:\n- Quinta-feira: t1 (13:00-13:50), t2 (13:50-14:40) - Sala L15\n- Segunda-feira: t1 (13:00-13:50), t2 (13:50-14:40), t3 (14:40-15:30) - Sala L15"
+    ],
+    "ground_truth": [
+      "Turma: CC5",
+      "Sala: L15"
+    ],
+    "metadata": {
+      "embedding_model": "all-MiniLM-L6-v2",
+      "llm_model": "gemma-2b",
+      "process_time": 1.0909857749938965
+    }
+  }, 
+  {
+    "question": "Qual o nome da disciplina de Código CC56E?",
+    "answer": "O nome da disciplina de Código CC56E é CC56E Aspectos Formais Da Computação.",
+    "contexts": [
+      "Informações da disciplina CC56E Aspectos Formais Da Computação. Carga Horária 45 Horas",
+      "Dar ao aluno noção formal de algoritmo, complexidade e computabilidade e do problema de decisão, de modo a deixá-lo consciente das limitações da ciência da computação. Aparelhá-lo com as ferramentas de modo a habilitá-lo a melhor solucionar problemas com o auxílio do computador e técnicas de computação.",
+      "Problemas solucionáveis e não solucionáveis. Aplicação da teoria dos grafos. [...] .",
+      "Complexidade Computacional. algoritmos. Complexidade no melhor caso. [...].",
+      "Modelos equivalentes à máquina de Turing. [...].",
+      "Classes de problemas. [...].",
+      "Problemas solucionáveis e não solucionáveis. [...].",
+      "Aplicação da teoria dos grafos.[...].",
+      "ROSA, João Luís Garcia. Linguagens formais e autômatos. Rio de Janeiro, RJ: LTC, 2010. 146 p. ISBN 9788521617518. [...].",
+      "VIEIRA, Newton José. Introdução aos fundamentos da computação: linguagens e máquinas. São Paulo: Thomson, 2006. xiii, 319 p. ISBN 8522105081. [...]."
+    ],
+    "ground_truth": [
+      "Aspectos Formais da Computação"
+    ],
+    "metadata": {
+      "embedding_model": "all-MiniLM-L6-v2",
+      "llm_model": "gemma-2b",
+      "process_time": 4.025017738342285
+    }
+  },
+  {
+    "question": "Qual documento Regulamenta a oferta de cursos de graduação na modalidade de Educação a Distância (EaD) e a oferta de carga horária na modalidade de EaD nos cursos de graduação presenciais da Universidade Tecnológica Federal do Paraná.",
+    "answer": "ANEXO I (RESOLUÇÃO COGEP/UTFPR Nº 181, DE 9 DE AGOSTO DE 2022)",
+    "contexts": [
+      "Art. 1º Aprovar o regulamento da oferta de cursos de graduação na modalidade de Educação a Distância (EaD) e da oferta de carga horária na modalidade de EaD nos cursos de graduação presenciais da Universidade Tecnológica Federal do Paraná (UTFPR), conforme anexo I.",
+      "ANEXO I (RESOLUÇÃO COGEP/UTFPR Nº 181, DE 9 DE AGOSTO DE 2022) REGULAMENTO DA OFERTA DE CURSOS DE GRADUAÇÃO NA MODALIDADE DE EDUCAÇÃO A DISTÂNCIA (EAD) [...].",
+      "CONSELHO DE GRADUAÇÃO E EDUCAÇÃO PROFISSIONAL (Secretaria) Curitiba, 01 de abril de 2021. Resolução cogep/utfpr nº 64/2021 [...],",
+      "Art. 2º. Instituir a Política de Licenciamento das versões finais dos Trabalhos de Conclusão de Cursos de Graduação (TCC) [...].",
+      "CONSELHO DE GRADUAÇÃO E EDUCAÇÃO PROFISSIONAL (Secretaria) Curitiba, 03 de dezembro de 2020. Resolução nº 47/2020 - COGEP RESOLUÇÃO Nº 47, DE 03 DE DEZEMBRO DE 2020 [...],"
+    ],
+    "ground_truth": [
+      "A Resolução COGEP/UTFPR Nº 181, de 9 de agosto de 2022."
+    ],
+    "metadata": {
+      "embedding_model": "all-MiniLM-L6-v2",
+      "llm_model": "gemma-2b",
+      "process_time": 4.114997625350952
+    }
+  }
+]

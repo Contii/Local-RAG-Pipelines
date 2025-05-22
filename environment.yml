@@ -1,0 +1,45 @@
+# cd tcc_2
+# conda activate base
+# conda env create -f environment.yml
+# conda activate tcc_2
+# conda update -c conda-forge transformers
+# pip install huggingface-hub --upgrade
+# conda install -y ipykernel
+# python -m ipykernel install --user --name tcc_2 --display-name "TCC (Python 3.12, Torch 2.7.0 Nightly)"
+# pip install huggingface_hub[cli]
+# pip install transformers --upgrade --force-reinstall
+# pip install huggingface-hub --upgrade --force-reinstall
+
+
+name: tcc_2
+channels:
+  - defaults # Canal padrão da Anaconda
+  - conda-forge # Canal da comunidade com muitos pacotes
+dependencies:
+  - python=3.12
+  - numpy=1.26.4
+  - pip
+  - matplotlib=3.8.3
+  - pandas=2.2.1
+  - requests=2.31.0
+  - sentence-transformers=2.5.1
+  - tqdm=4.66.2
+  - transformers=4.19.2
+  - accelerate
+  - jupyter
+  - wheel
+  - beautifulsoup4
+  - html2text  
+  - pip:
+    - torch --index-url https://download.pytorch.org/whl/nightly/cu121
+    - pymupdf==1.23.26
+    - bitsandbytes
+    - trafilatura
+    - chardet
+    - chromadb
+    - duckdb
+    - fuzzywuzzy
+    - selenium
+    - pypdf2
+    - huggingface-hub
+    - nlkt
