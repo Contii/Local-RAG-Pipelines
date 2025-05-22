@@ -1,0 +1,47 @@
+[
+  {
+    "question": "Qual é a ementa da disciplina Redes de Computadores 1?",
+    "ground_truth": [
+      "Evolução das redes",
+      "Modelo em camadas OSI e TCP/IP",
+      "Arquiteturas das redes",
+      "Meios de comunicação de dados",
+      "Redes LAN e WAN",
+      "Padronização IEEE",
+      "Tecnologias Ethernet suas variantes",
+      "Conceitos de Switching",
+      "Protocolo IP",
+      "operação e endereçamento"
+    ]
+  },
+  {
+    "question": "Qual o nome da disciplina de Código OP63J?",
+    "ground_truth": [
+      "Data Warehouse e Data Mining"
+    ]
+  },
+  {
+    "question": "Qual o nome da disciplina de Código CC56E?",
+    "ground_truth": [
+      "Aspectos Formais da Computação"
+    ]
+  },
+  {
+    "question": "Quais os tópicos do conteúdo programático da disciplina Segurança Em Redes De Computadores?",
+    "ground_truth": [
+      "1 - Segurança de Dados e Criptologia.",
+      "2 - Segurança Digital.",
+      "3 - Métodos de criptografia e criptoanálise.",
+      "4 - Implementação de Firewall.",
+      "5 - Gerência e Desempenho."
+    ]
+  },
+  {
+    "question": "Qual a bibliografia básica da disciplina Redes Neurais Artificiais?",
+    "ground_truth": [
+      "KOVÁCS, Zsolt Lászlo. Redes neurais artificiais: fundamentos e aplicações : um texto básico . 4. ed. São Paulo: Livraria da Física, 2006. 174 p. ISBN 8588325144.",
+      "GOODFELLOW, I.; BENGIO, Y.; ; COURVILLE, A. Deep learning. [S.l.]: MIT press Cambridge, 2016.",
+      "HAYKIN, Simon S. Redes neurais: princípios e prática. 2. ed. Porto Alegre, RS: Bookman, 2001. 900 p. ISBN 9788573077186."
+    ]
+  }
+]

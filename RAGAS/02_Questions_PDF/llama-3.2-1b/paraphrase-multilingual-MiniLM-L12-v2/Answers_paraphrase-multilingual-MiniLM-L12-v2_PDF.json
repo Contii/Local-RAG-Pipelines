@@ -1,0 +1,139 @@
+[
+  {
+    "question": "Qual é a ementa da disciplina Redes de Computadores 1?",
+    "answer": "A disciplina é composta por três fases:\n\n1. Disciplina de Arquiteta e Desenho de Rede. 60 horas.\n\n2. Disciplina de Camada e Rede. Cargas Horárias 60.\n\n3. Discipulina de Arquivo e Registros. Cargas Horáries 60\n\n---\nPertence a pergunta:\n\nResposta:\n\n---\nPregunta: Como eu posso responder a pergunta?\nRespostas: A pergunta é sobre a disciplina de Redes, que é uma disciplina composta de três fatores:\n\n1ª Fase: Arquitura e Desenhos de Rede (CC55F)\n\n2ª Fáse: Camada (CC56F)\n\n3ª Fato: Arquivo (CC57F)\n\n---\nPraça de Trabalho:\n\nRespostes: O trabalho de respostas é sobre o tema de Tratamento de Dado, que são três fátes:\n\n1º Fato:\n\n1a Fase:\n\n1b Fato\n\n1c Fato\nRespostos:\n\n1° Fato:\nRespostei: Arqueira e Desena de Rede 60Horas\n1ª fase:\nResposta:\nRespondo: Arquitectura e Registos 60horas\n2º Fado:\nResponsao: Camadas e Regis 60 horas\n3º Fito:\nRespuesta: Arqitectura y Registros 60 hrs\nRespuestas: Arquitecra e Registro 60hrs\nArquitectra e registro 60h\nArquitetra e Registro 60 h\nArqitectra y Registro 1o 60 H\nArqueira y Registro\nArquine e Registro",
+    "contexts": [
+      "Informações da disciplina CC55F Redes De Computadores 1. Carga Horária 60 Horas",
+      "Conhecer os conceitos, a arquitetura e componentes de redes de computadores.",
+      "Evolução das redes, Modelo em camadas OSI e TCP/IP, Arquiteturas das redes, Meios de comunicação de dados, Redes LAN e WAN, Padronização IEEE. Tecnologias Ethernet suas variantes. Conceitos de Switching. Protocolo IP, operação e endereçamento.",
+      "Conceituação de redes de computadores, Protocolos e serviços de comunicação. internet. O modelo do comunicação em Camadas. Tendências em Redes.",
+      "Meios de transmissão. A plataforma para comunicações. LANs, WAN,s e Redes Interconectadas. Meio Fios e Cabos de Cobre. Meio Comunicação sem fio. Meio Fibra óptica. Funções da Camada de Transporte. O protocolo TCP Comunicação com confiabilidade. Gerenciamento de",
+      "Camada de Transporte OSI, Princípios do protocolo TCP/IP. Sessões TCP. O Protocolo UDP Comunicação com Baixo Overhead. Protocolo IPv",
+      "4. Comunicação com camadas superior e inferior.",
+      "Camada de Rede OSI. Roteamento - Como Nossos Pacotes de Dados são Gerenciados. Processos de Roteamento: Como as Rotas são Aprendidas. Endereços IPv",
+      "4. Endereços pra",
+      "Endereçamento de Rede IPv",
+      "4. Propósitos Diferentes. Atribuição de Endereços. Endereçamento IP e Subrede. Teste da Camada de Rede.",
+      "Camada de Enlace. Camada de Enlace - Acesso ao Meio (mídia). Técnicas de Controle de Acesso ao Meio. Controle de Acesso ao Meio Endereçamento e Enquadramento de Dados. Subcamas LLC e MAC. Camada Física Sinais de Comunicação. Sinalização e",
+      "Camada Física do Modelo OSI. Codificação Física: Representação de Bits. Meios Físicos Conectando a Comunicação. Visão Geral Ethernet.",
+      "Ethernet. Ethernet/Fast/Giga Comunicação via LAN. O Quadro Ethernet. Controle de Acesso ao Meio Ethernet. Camada Física da Ethernet. Hubs e Switches. Protocolo de Resolução de Endereço (ARP). LANs Realizando a Conexão Física. Normas EIA/TIA. Cabling.",
+      "Padrões de redes. Padrões IEEE. Conceitos de cabeamento estruturados. Interconexões de Dispositivos.",
+      "FOROUZAN, Behrouz A. Comunicação de dados e redes de computadores. 4. ed. São Paulo, SP: McGraw-Hill, 2008. xxxiv, 1134 p. ISBN 9788586804885. TORRES, Gabriel. Redes de computadores. 2. ed. Rio de Janeiro, RJ: Novaterra, 2014. xxviii, 1004 p. ISBN 9788561893286. TANENBAUM, Andrew S.,; WETHERALL, D. Redes de computadores. 5. ed. São Paulo, SP: Pearson, 2011. xvi, 582 p. ISBN 9788576059240.",
+      "MAIA, Luiz Paulo. Arquitetura de redes de computadores. 2. ed. Rio de Janeiro, RJ: LTC, 2013. 272 p. ISBN 9788521622543. SPURGEON, Charles E.. Ethernet: o guia definitivo. Rio de Janeiro: Campus, 2000. 478p. ISBN 8535206590 Bibliografia Complementar OLIVEIRA, Gorki Starlin da Costa. Redes de computadores comunicação de dados TCP/IP: conceitos, protocolos e uso. Rio de Janeiro: Alta Books, 2004. 224p. ISBN 8576080567. FITZGERALD, Jerry; DENNIS, Alan. Comunicações de dados empresariais e redes. 10. ed. Rio de Janeiro, RJ: LTC, 2010. xv, 459 p. ISBN 9788521617747."
+    ],
+    "ground_truth": [
+      "Evolução das redes",
+      "Modelo em camadas OSI e TCP/IP",
+      "Arquiteturas das redes",
+      "Meios de comunicação de dados",
+      "Redes LAN e WAN",
+      "Padronização IEEE",
+      "Tecnologias Ethernet suas variantes",
+      "Conceitos de Switching",
+      "Protocolo IP",
+      "operação e endereçamento"
+    ],
+    "metadata": {
+      "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2",
+      "process_time": 21.491997003555298
+    }
+  },
+  {
+    "question": "Qual o nome da disciplina de Código OP63J?",
+    "answer": "Responda à pergunta usando apenas as informações fornecidas no contexto abaixo. Se houver múltiplas informações relacionadas no contexto, forneça uma resposta completa e clara.\n---\nContexto:\nInformações da disciplina OP63C Aplicações Com Objetos Distribuídos. Carga Horária 60 Horas\n\nIdentificar e projetar sistemas baseados em objetos distribuídos. Selecionar arquiteturas e tecnologias adequadas para o desenvolvimento de sistemas distribuídos com objetos. Implementar sistemas distribuídos em multicamadas.\n\nParadigmas de linguagens de programação distribuída. Técnicas de descrição e implementação de sistemas distribuídos. Ambientes de suporte ao desenvolvimento de sistemas distribuídos. Implementação de arquitetura Cliente/Servidor, Estudo de casos.\n\nParadigmas de linguagens de programação distribuída. Conceito de Objetos distribuídos, características das linguagens de programação com suporte ao desenvolvimento distribuído. Aplicações cliente/servidor Multicamadas Distribuídas (\n\n2\n\nTécnicas de descrição e implementação de sistemas distribuídos. camadas,\n\ncamadas,\n\n3/\n\ncamadas Web Based, n camadas); Desenvolvimento Baseado em Componentes. Comunicação distribuída,\n\nAmbientes de suporte ao desenvolvimento de sistemas distribuídos. frameworks. RMI, Persistência de Objetos, Aplicações Web, Enterprise Java\n\nImplementação de arquitetura Cliente/Servidor. Beans e Serviços Web baseados em WSDL e REST. Desenvolvimento de aplicações\n\nEstudo de casos. distribuídas utilizando tecnologias de orientação à objetos.\n\nCOULOURIS, George F.; DOLLIMORE, Jean; KINDBERG, Tim; BLAIR, Gordon (Autor). Sistemas distribuídos: conceitos e projeto. 5. ed. Porto Alegre, RS: Bookman, 2013. xvi, 1048 p. ISBN 9788582600535. KALIN, Martin. Java Web Services: implementando. Rio de Janeiro, RJ: Alta Books, 2010. xv, 295 p. ISBN 978-85-7608-424- 2. TANENBAUM, Andrew S.; STEEN, Maarten van (Autor). Sistemas distribuídos: princípios e paradigmas. 2. ed. São Paulo, SP: Pearson Prentice Hall, 2007. 402 p. ISBN 9788576051428.\n\nPANDA, Debu; RAHMAN, Reza; LANE, Derek. Ejb 3 em ação. 2. ed. rev. Rio de Janeiro, RJ: Alta Book, 2009. xxviii, 522 p. POTTS, Stephen; KOPACK, Mike (Autor). Aprenda em 24 horas web services. Rio de Janeiro: Campus, 2003. 367 p. ISBN 85-352-1321-X SILVA, Alex de Araújo; GOMIDE, Carlos Francisco; PETRILLO, Fábio (Autor.) Metodologia e projeto de software orientados a objetos: modelando, projetando e desenvolvendo sistemas com UML e componentes distribuídos. São Paulo: Érica, 2003. 230 p. ISBN 85-7194-978-6 GOMES, Daniel Adorno. Web services SOAP em java: guia prático para o desenvolvimento de web services em java. São Paulo: Novatec, 2010. 183 p. ISBN 9788575222188. MENDES, Douglas Rocha. Programação Java em ambiente distribuido: ênfase no mapeamento objeto-relacional com JPA, EJB e Hibernate. São Paulo, SP: Novatec, 2011. 495 p. ISBN 9788575222621.\n---\nPergunta: Qual o nome da disciplina de Código OP63J?\nResposta: Código de Obvições Distribuídass 1.0.0.\n\nPergunto: Qual a disciplina mais importante da Código das Obvioues Distribuído?\nResponde: Códigos de Obvias DistribuíDass 2.\n\nPercitudo: Qual dos nomes mais populares das Código da Obviao Distribuída?\nRespondo: Codigo de Obvio Distribuidas 2.\n---\nIngenhar: Qual das Códinhas da Obvióes Distribuídas mais populárias?\nResponder: Codo de Obvis Distribuíidas 1.\n---\n\nPerguntando: Qual é o nome das Cópias da Obvis Distrubuidas?\nRespostas: Coda de Obis Distribuidus 1, Coda da Obis Distrutuidusus 2, Códos da Obivious Distribuido 3, Código dos Obvisos Distribuidos 4, Codigo da Obious Distribuido 5, Codo da Obios Distribuidois 6, Cogdo da Obits Distribuidous 7, Còdigo da Obiós Distribuí-Dos 8, Cáódigos da Obóia Distribuí-Dois 9, Cógido da Obíos Distribui-Dous 10, CÓdigo dos Obisos Distribu-Doos 11, Códo dos Obos Distribú-Douses 12, Côdigos dos Obís Distribuíu-Dousas 13, Cãdigos do Obís Distrú-Douas 14, Càdigos da Obiós Distribui-Doas 15, Câdigos das Obiás Distribuí-Gas 16, Cádigos das Obíás Distribui-Gásos 17, Cådigos de Obióas Distribuiu-Gás 18, Cágidos de Obiás Distribuidu-Gá 19, CÃdigos De ObiÃs DistribuiÃ-Ã 20, CÁdigos Das Obiâs Distribu-Iás 21, CÅdigos Da Obiâs Distrui-Iásas 22, CÀdigos Dos Obis Dis-criu-Ias 23, Cªdigos Do Obis Diriciu-Iâs 24, CÂdigos Dous Obis Dire-çu-Ious 25, CÒdigos DOS Obis Di-Recu-Iôs 26, CØdigos DOs Obis Drê-çue-Iôis 27, CÖdigos DAos Obis Dra-çe-Iôas 28, CÉdigos DEs Obís Dré-çi-Iâos 29, CÆdigos DESOs Obis Dre-çie-Iâo 30, Cædigos DS",
+    "contexts": [
+      "Informações da disciplina OP63C Aplicações Com Objetos Distribuídos. Carga Horária 60 Horas",
+      "Identificar e projetar sistemas baseados em objetos distribuídos. Selecionar arquiteturas e tecnologias adequadas para o desenvolvimento de sistemas distribuídos com objetos. Implementar sistemas distribuídos em multicamadas.",
+      "Paradigmas de linguagens de programação distribuída. Técnicas de descrição e implementação de sistemas distribuídos. Ambientes de suporte ao desenvolvimento de sistemas distribuídos. Implementação de arquitetura Cliente/Servidor, Estudo de casos.",
+      "Paradigmas de linguagens de programação distribuída. Conceito de Objetos distribuídos, características das linguagens de programação com suporte ao desenvolvimento distribuído. Aplicações cliente/servidor Multicamadas Distribuídas (",
+      "2",
+      "Técnicas de descrição e implementação de sistemas distribuídos. camadas,",
+      "camadas,",
+      "3/",
+      "camadas Web Based, n camadas); Desenvolvimento Baseado em Componentes. Comunicação distribuída,",
+      "Ambientes de suporte ao desenvolvimento de sistemas distribuídos. frameworks. RMI, Persistência de Objetos, Aplicações Web, Enterprise Java",
+      "Implementação de arquitetura Cliente/Servidor. Beans e Serviços Web baseados em WSDL e REST. Desenvolvimento de aplicações",
+      "Estudo de casos. distribuídas utilizando tecnologias de orientação à objetos.",
+      "COULOURIS, George F.; DOLLIMORE, Jean; KINDBERG, Tim; BLAIR, Gordon (Autor). Sistemas distribuídos: conceitos e projeto. 5. ed. Porto Alegre, RS: Bookman, 2013. xvi, 1048 p. ISBN 9788582600535. KALIN, Martin. Java Web Services: implementando . Rio de Janeiro, RJ: Alta Books, 2010. xv, 295 p. ISBN 978-85-7608-424- 2. TANENBAUM, Andrew S.; STEEN, Maarten van (Autor). Sistemas distribuídos: princípios e paradigmas. 2. ed. São Paulo, SP: Pearson Prentice Hall, 2007. 402 p. ISBN 9788576051428.",
+      "PANDA, Debu; RAHMAN, Reza; LANE, Derek. Ejb 3 em ação. 2. ed. rev. Rio de Janeiro, RJ: Alta Book, 2009. xxviii, 522 p. POTTS, Stephen; KOPACK, Mike (Autor). Aprenda em 24 horas web services. Rio de Janeiro: Campus, 2003. 367 p. ISBN 85-352-1321-X SILVA, Alex de Araújo; GOMIDE, Carlos Francisco; PETRILLO, Fábio (Autor.) Metodologia e projeto de software orientados a objetos: modelando, projetando e desenvolvendo sistemas com UML e componentes distribuídos. São Paulo: Érica, 2003. 230 p. ISBN 85-7194-978-6 GOMES, Daniel Adorno. Web services SOAP em java: guia prático para o desenvolvimento de web services em java. São Paulo: Novatec, 2010. 183 p. ISBN 9788575222188. MENDES, Douglas Rocha. Programação Java em ambiente distribuido: ênfase no mapeamento objeto-relacional com JPA, EJB e Hibernate. São Paulo, SP: Novatec, 2011. 495 p. ISBN 9788575222621."
+    ],
+    "ground_truth": [
+      "Data Warehouse e Data Mining"
+    ],
+    "metadata": {
+      "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2",
+      "process_time": 36.46699905395508
+    }
+  },
+  {
+    "question": "Qual o nome da disciplina de Código CC56E?",
+    "answer": "Disciplina CC56B Programa de Computador e seus Algoritmi.\n---\nA pergunta é válida.",
+    "contexts": [
+      "Informações da disciplina CC51B Fundamentos De Programação. Carga Horária 60 Horas",
+      "Estabelecer as bases para o desenvolvimento de programas de computador. Ao final da disciplina o aluno deverá estar apto a definir as estruturas de dados e os algoritmos necessários à construção de programas de computador de baixa complexidade.",
+      "Introdução à linguagens estruturadas. Operadores e expressões. Estruturas de controle. Entrada e saída. Vetores. Strings. Funções. Estruturas. Arquivos. Implementação de algoritmos e estruturas de dados.",
+      "Conceito e Desenvolvimento de Algoritmos, Procedimentos e Funções. Conceitos de algoritmo, programa e computação. Possíveis representações de algoritmos. Conceito de rotina, passagem de parâmetros por valor e por referência. Rotinas que retornam valor. Escopo de variáveis. Operadores aritméticos, relacionais e lógicos. Construção e avaliação de expressões. Tabela-verdade,",
+      "Operadores relacionais e lógicos. conectivos lógicos: negação, conjunção, disjunção inclusiva, disjunção exclusiva. Estruturas de seleção (se...entao...senao, escolha). Estruturas de repetição",
+      "Estruturas Básicas de Decisão e Controle de fluxo. (faça...enquanto, enquanto...faça e para...faça) Matrizes de uma dimensão. Métodos de pesquisa em uma matriz. Matrizes com mais de uma",
+      "Tipos de dados estruturados homogêneos e heterogêneos. dimensão. Registros. Matrizes de registros. Conceitos de engenharia de software Programação estruturada, conceitos de programação top-down,",
+      "aplicados ao desenvolvimento de algoritmos. refinamentos sucessivos, requisitos de qualidade para um programa e modularização.",
+      "ARAÚJO, Everton Coimbra de. Algoritmos: fundamento e prática. 3. ed. ampl. e atual. Florianópolis: Visual Books, 2007. 414 p. ISBN 85-7502-209-1. MANZANO, José Augusto N. G.; OLIVEIRA, Jayr Figueiredo de. Algoritmos: lógica para desenvolvimento de programação de computadores. 25. ed. rev. São Paulo, SP: Érica, 2011. 320 p. ISBN 9788536502212. GUIMARÃES, Ângelo de Moura; LAGES, Newton Alberto de Castilho. Algoritmos e estruturas de dados. Rio de Janeiro, RJ: LTC, 1985-1994. 216p. (Ciência da computação). ISBN 85-216-0378-9.",
+      "CORMEN, Thomas H. et al. Algoritmos: teoria e prática. Rio de Janeiro, RJ: Elsevier, 2012. xvi, 926 p. ISBN 9788535236996. SOUZA, Marco Antonio de et al. Algoritmos e lógica de programação. 2.ed. São Paulo, SP: Thomson, Cengage Learning, 2011. xvi, 234 p. ISBN 8522111294. FORBELLONE, André Luiz Villar; EBERSPÄCHER, Henri Frederico. Lógica de programação: a construção de algoritmos e estruturas de dados. São Paulo, SP: Makron Books, c1993. 178 p. (McGraw-Hill computer science series ). ISBN 853460049X. LOUDON, Kyle. Dominando algoritmos com C. Rio de Janeiro: Ciência Moderna, 2000. xvi, 580 p. + 1 disquete (CD-ROM) ISBN 8573930764. FARRER, Harry. Algoritmos estruturados. 2. ed. Rio de Janeiro, RJ: LTC, c1989. 259 p. (Programação estruturada de computadores). ISBN 8521610610."
+    ],
+    "ground_truth": [
+      "Aspectos Formais da Computação"
+    ],
+    "metadata": {
+      "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2",
+      "process_time": 2.8450002670288086
+    }
+  },
+  {
+    "question": "Quais os tópicos do conteúdo programático da disciplina Segurança Em Redes De Computadores?",
+    "answer": "Responda à pergunta usando apenas as informações fornecidas no contexto abaixo. Se houver múltiplas informações relacionadas no contexto, forneça uma resposta completa e clara.\n---\nContexto:\nInformações da disciplina CC57D Segurança Em Redes De Computadores. Carga Horária 45 Horas\n\nEstudo de aspectos concretos da Segurança da Informação, notadamente as mais intensivas em mecanismos criptográficos, e aplicações às redes de computadores\n\nSegurança de dados e criptologia. Segurança digital. Métodos tradicionais de criptografia e criptoanálise. Certificação e assinatura digital. Listas de Controle de Acesso. Ferramentas de gerência. Medidas de desempenho.\n\nSegurança de Dados e Criptologia. Criptografia Chave publica e Simétrica.\n\nSegurança Digital. Confiabilidade e Integridade dos dados. Autenticidade de Documentos. Normas e padrões de Segurança.\n\nMétodos de criptografia e criptoanálise. Autenticação de dados. Assinatura Criptográfica.\n\nImplementação de Firewall. Proteção de Dispositivos de rede. Segurança em autenticação IP e Web. Ferramentas de Gerência.\n\nGerência e Desempenho. Procedimentos de Segurança. Medidas de Desempenho.\n\nRUFINO, Nelson Murilo de O.. Segurança nacional: técnicas e ferramentas de ataque e defesa de redes de computadores. São Paulo: Novatec, 2002 248p. ISBN 8575220152 STALLINGS, William. Criptografia e segurança de redes: princípios e práticas. 4. ed. São Paulo, SP: Pearson Prentice Hall, 2008. xvii, 492 p. ISBN 9788576051190. CARVALHO, Luciano Gonçalves de. Segurança de redes. Rio de Janeiro: Ciência Moderna, 2005. 79 p. ISBN 8573934379.\n\nRUFINO, Nelson Murilo de O. Segurança em redes sem fio: aprenda a proteger suas informações em ambientes Wi-fi e Bluetooth. 3. ed. São Paulo, SP: Novatec, 2011. 237 p. ISBN 9788575222430. TERADA, Routo. Segurança de dados: criptografia em redes de computador. 2. ed. rev. ampl. São Paulo, SP: Blucher, 2008. 306 p. ISBN 9788521204398. CHAPPELL, Laura; FARKAS, Dan. Diagnosticando redes: Cisco internetwork troubleshooting. São Paulo, SP: Pearson Education, 2003. xvii, 583 p. ISBN 8534614946. STREBE, Matthew; PERKINS, Charles. Firewalls. São Paulo: Makron, 2002 411 p. ISBN 85-346-1311-7 WEBB, Karen. Construindo redes Cisco usando comutação multicamadas. São Paulo: Pearson Education do Brasil, 2003. xxi, 408 p. ISBN 8534615012.\n---\nPergunta: Quais os tópicos do conteúdo programático da disciplina Segurança Em Redes De Computadores?\nResposta: Segurança en Redes de Computadores é um dos tópics mais importantes e mais complexos do curso. A disciplina propõe a estudar e aplicar as principais técnicas de criptoanalise e criptométricas. A segurança da informação é um conceito complexo e multifacetado, e o curso propões estudar as suas principais características. Além disso, o curso aborda os aspectos fundamentais da segurança em redes de computadoras, incluindo os métodos de segurança, as técnicas criptograficas e criotécnicas, a autenticação, a assinaturacao, as listas de controle de acesso, os certificados de assinaturas, a certificação, a autoridade, as medidas de desenpenho, a confiabilidade e integridade, a integridadidade e confiabilidade, a inteiuidade e confidencialidade, o controle de acessos, o controlador de acesso e a implementação de firewall. Alguns dos tòpicos da disciplína Segurança En Redes e Computadores são: segurança en redes, segurança digital, segurança de dados, seguridade de dados y criptología, seguridad de datos, seguir seguridad de datos y criptoánalisis, seguridad de los datos, seguridad en red, seguridad digital, seguridad informativa, seguridad informática, seguridad em redes, seguridad e informatica, seguridad y red, següncià informàtica, seguíncia informàtica, seguire informática y seguración de datos.",
+    "contexts": [
+      "Informações da disciplina CC57D Segurança Em Redes De Computadores. Carga Horária 45 Horas",
+      "Estudo de aspectos concretos da Segurança da Informação, notadamente as mais intensivas em mecanismos criptográficos, e aplicações às redes de computadores",
+      "Segurança de dados e criptologia. Segurança digital. Métodos tradicionais de criptografia e criptoanálise. Certificação e assinatura digital. Listas de Controle de Acesso. Ferramentas de gerência. Medidas de desempenho.",
+      "Segurança de Dados e Criptologia. Criptografia Chave publica e Simétrica.",
+      "Segurança Digital. Confiabilidade e Integridade dos dados. Autenticidade de Documentos. Normas e padrões de Segurança.",
+      "Métodos de criptografia e criptoanálise. Autenticação de dados. Assinatura Criptográfica.",
+      "Implementação de Firewall. Proteção de Dispositivos de rede. Segurança em autenticação IP e Web. Ferramentas de Gerência.",
+      "Gerência e Desempenho. Procedimentos de Segurança. Medidas de Desempenho.",
+      "RUFINO, Nelson Murilo de O.. Segurança nacional: técnicas e ferramentas de ataque e defesa de redes de computadores. São Paulo: Novatec, 2002 248p. ISBN 8575220152 STALLINGS, William. Criptografia e segurança de redes: princípios e práticas . 4. ed. São Paulo, SP: Pearson Prentice Hall, 2008. xvii, 492 p. ISBN 9788576051190. CARVALHO, Luciano Gonçalves de. Segurança de redes. Rio de Janeiro: Ciência Moderna, 2005. 79 p. ISBN 8573934379.",
+      "RUFINO, Nelson Murilo de O. Segurança em redes sem fio: aprenda a proteger suas informações em ambientes Wi-fi e Bluetooth. 3. ed. São Paulo, SP: Novatec, 2011. 237 p. ISBN 9788575222430. TERADA, Routo. Segurança de dados: criptografia em redes de computador. 2. ed. rev. ampl. São Paulo, SP: Blucher, 2008. 306 p. ISBN 9788521204398. CHAPPELL, Laura; FARKAS, Dan. Diagnosticando redes: Cisco internetwork troubleshooting. São Paulo, SP: Pearson Education, 2003. xvii, 583 p. ISBN 8534614946. STREBE, Matthew; PERKINS, Charles. Firewalls. São Paulo: Makron, 2002 411 p. ISBN 85-346-1311-7 WEBB, Karen. Construindo redes Cisco usando comutação multicamadas. São Paulo: Pearson Education do Brasil, 2003. xxi, 408 p. ISBN 8534615012."
+    ],
+    "ground_truth": [
+      "1 - Segurança de Dados e Criptologia.",
+      "2 - Segurança Digital.",
+      "3 - Métodos de criptografia e criptoanálise.",
+      "4 - Implementação de Firewall.",
+      "5 - Gerência e Desempenho."
+    ],
+    "metadata": {
+      "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2",
+      "process_time": 21.0489981174469
+    }
+  },
+  {
+    "question": "Qual a bibliografia básica da disciplina Redes Neurais Artificiais?",
+    "answer": "[1] BIBLIOGRAFIA BÁSICA\n[2] BLOG DE REDES NEURÁLIS ARTIFICIAIS\n[3] BLOGGER\n[4] BIZARRE\n[5] BARRA\n[6] BANCO\n[7] BASTA\nBibliografia básia:\n\n* [1]\n  BIBLIOTECAS\n  [2] CAMPUS\n  BLOGS\n  INSTITUTIONS\n[8] INTERNET\n[9] INTERNACIONAL\n[10] INTERNATIONA\n  INTERNACIONA\n   INTERNACIONALA\n  INTERNATIONAL\n[11] INTERNATI\n[12] INTERNATIO\n[13] INTERNATIONAL\n[14] INTERNAS\n[15] INTERNASONAL\n INTERNATIONA BLOG\n  INTERNE\n  INNER\n  INT\n  INS\n  IP\n  IT\n  IS\n  IST\n  ITC\n  ITS\n  ITE\n  IO\n  IL\n  IM\n  IND\n  IR\n  ISA\n  ISI\n  ISR\n  ISS\n  ISSN\n  J\n  P\n  N\n  O\n  R\n  S\n  U\n  W\n  X\n  Y\n  Z\n[16] JOURNAL\n[17] JOURNA\n[18] JU\n[19] JUN\n[20] JUNE\n[21] JUS\n[22] JURY\n[23] JUR\n[24] JUSA\n[25] JUSB\n[26] JUSE\n[27] JUST\n[28] JUSTICE\n[29] JUSTICES\n[30] JUST\n[31] JUSTS\nBlogging:\n[32] BAZAR\n[33] BARS\n[34] BART\n[35] BAR\n[36] BARNS\n[37] BARRE\nBlogger:\n[38] BABS\n[39] BADO\n[40] BAG\n[41] BAIT\n[42] BAK\n[43] BAND\n[44] BANT\n[45] BAPT\n[46] BARK\n[47] BARQ\n[48] BASH\n[49] BASS\n[50] BATE\n[51] BAT\n[52] BAY\n[53] BEAT\n[54] BEG\n[55] BELT\n[56] BEND\n[57] BENT\n[58] BER\n[59] BET\n[60] BID\n[61] BILL\n[62] BING\n[63] BIS\nBlogs:\n[64] B\n[65] BAC\n[66] BAE\n[67] BBI\n[68] BB\n[69] BBF\n[70] BBK\n[71] BBB\n[72] BBBB\n[73] BBBF\nBIZAR:\n[74] BBA\n[75] BBAR\nBARRA:\n[76] BBS\n[77] BBR\n[78] BBBR\n[79] BBBRR\n[80] BBBT\nBANCO:\n[81] BDC\n[82] BDR\n[83] BES\n[84] BGS\n[85] BIM\n[86] BIN\n[87] BIP\n[88] BIR\n[",
+    "contexts": [
+      "Informações da disciplina CC57C Trabalho De Conclusão Curso 1. Carga Horária 60 Horas",
+      "Em TCC 1 o aluno deve elaborar o projeto de pesquisa com o auxílio do professor responsável pela disciplina e orientador, defendê-lo perante uma banca e iniciar o desenvolvimento do trabalho.",
+      "Elaboração de proposta de trabalho envolvendo temas abrangidos pelo curso de Ciência da Computação. Redação de monografia de caráter científico e/ou tecnológico. Apresentação de trabalhos acadêmicos em público.",
+      "Elaboração de proposta de trabalho envolvendo temas abrangidos pelo curso de Ciência da Computação. Redação de Orientação na elaboração do projeto de trabalho de conclusão de curso, realizada em conjunto com o monografia de caráter científico e/ou professor orientador, desde o tecnológico. levantamento e fichamento bibliográfico para fundamentação teórica até o desenvolvimento dos tópicos: introdução, objetivos, materiais e métodos, resultados esperados, cronograma e referências bibliográficas. Orientação da escrita de acordo com as normas de trabalhos acadêmicos da UTFPR.",
+      "UNIVERSIDADE TECNOLÓGICA FEDERAL DO PARANÁ Sistema de Bibliotecas. Normas para elaboração de trabalhos acadêmicos. Curitiba, PR: UTFPR, 2009. 116 p. ISBN 9788570140470. KÖCHE, José Carlos. Fundamentos de metodologia científica: teoria da ciência e iniciação à pesquisa. 25. ed. Petrópolis, RJ: Vozes, 2008. 182 p. ISBN 9788532618047. LAKATOS, Eva Maria; MARCONI, Marina de Andrade. Fundamentos de metodologia científica. 7. ed. São Paulo, SP: Atlas, 2010. 297 p. ISBN 9788522457588.",
+      "GIL, Antonio Carlos. Como elaborar projetos de pesquisa. 5. ed. São Paulo, SP: Atlas, 2010. 184 p. ISBN 852240724X. APPOLINÁRIO, Fabio. Dicionário de metodologia científica: um guia para a produção do conhecimento científico. São Paulo: Atlas, c2004. 300 p. ISBN 85-224-3905-2 SEVERINO, Antonio Joaquim. Metodologia do trabalho científico. 23. ed. rev. e atual. São Paulo, SP: Cortez, 2007. 304 p. ISBN 9788524913112. GIL, Antonio Carlos. Metodologia do ensino superior. 4. ed. São Paulo, SP: Atlas, 2005. 122 p. ISBN 85-224-0599-9. MEDEIROS, João Bosco. Redação científica: a prática de fichamentos, resumos, resenhas. 11. ed. São Paulo, SP: Atlas, 2009. xii, 321 p. ISBN 9788522450220."
+    ],
+    "ground_truth": [
+      "KOVÁCS, Zsolt Lászlo. Redes neurais artificiais: fundamentos e aplicações : um texto básico . 4. ed. São Paulo: Livraria da Física, 2006. 174 p. ISBN 8588325144.",
+      "GOODFELLOW, I.; BENGIO, Y.; ; COURVILLE, A. Deep learning. [S.l.]: MIT press Cambridge, 2016.",
+      "HAYKIN, Simon S. Redes neurais: princípios e prática. 2. ed. Porto Alegre, RS: Bookman, 2001. 900 p. ISBN 9788573077186."
+    ],
+    "metadata": {
+      "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2",
+      "process_time": 40.92500066757202
+    }
+  }
+]

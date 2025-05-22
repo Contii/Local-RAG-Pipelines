@@ -1,0 +1,126 @@
+[
+  {
+    "question": "Quais os dias e horarios da semana em que acontecem as aulas da disciplina Árvores e Grafos?",
+    "answer": "Não mentiona-se no contexto as aulas da disciplina Árvores e Grafos.",
+    "contexts": [
+      "O professor Silvana Mendonca Lopes Valentin ministra a disciplina Noções Linguísticas E Culturais Da Língua Brasileira De Sinais (HLA1017) para a turma LQ5 no formato Presencial.\nHorários:\n- Segunda-feira: n3 (20:20-21:10) - Sala I43",
+      "O professor Rosana Aparecida Da Silva Buzanello ministra a disciplina Fundamentos De Nutrição (ALM1012) para a turma TAL5 no formato Presencial.\nHorários:\n- Terca-feira: n4 (21:20-22:10), n5 (22:10-23:00) - Sala I41",
+      "O professor Silvana Mendonca Lopes Valentin ministra a disciplina Introdução À Língua Brasileira De Sinais (HLA1015) para a turma LQ4 no formato Presencial.\nHorários:\n- Quarta-feira: n3 (20:20-21:10) - Sala I44",
+      "O professor Thiago Destri Cabral ministra a disciplina Resistência Dos Materiais (MEC1006) para a turma AMB4 no formato Presencial.\nHorários:\n- Terca-feira: n4 (21:20-22:10), n5 (22:10-23:00) - Sala J35",
+      "O professor Kelyn Schenatto ministra a disciplina Geoprocessamento E Bancos De Dados Geográficos Aplicados À Agricultura (TCA12) para a turma PPGTCA no formato Presencial.\nHorários:\n- Segunda-feira: n4 (21:20-22:10), n5 (22:10-23:00) - Sala I45"
+    ],
+    "ground_truth": [
+      "Quinta-feira: t3 (14:40-15:30), t4 (15:50-16:40) - Sala L18",
+      "Terca-feira: t4 (15:50-16:40), t5 (16:40-17:30) - Sala L18"
+    ],
+    "metadata": {
+      "embedding_model": "neuralmind-bert-base-portuguese-cased",
+      "process_time": 2.917998790740967
+    }
+  },
+  {
+    "question": "A disciplina Aspectos Formais Da Computacao acontece de manhã ou de tarde?",
+    "answer": "Não há informações no contexto que indica se a disciplina Aspectos Formais da Computação acontece de manhã ou de tarde.",
+    "contexts": [
+      "O professor Renata Mello Giona ministra a disciplina Fundamentos Metodologicos Para A Pesquisa Em Ensino De Quimica (FMPEQ) para a turma PROFQUI no formato Presencial.\nHorários:\n- Sexta-feira: t3 (14:40-15:30), t4 (15:50-16:40) - Sala I44",
+      "O professor Everton Coimbra De Araujo ministra a disciplina Algoritmos E Estrutura De Dados (TCA02) para a turma PPGTCA no formato Presencial.\nHorários:\n- Segunda-feira: t1 (13:00-13:50), t2 (13:50-14:40) - Sala I45",
+      "O professor Luciana Furlaneto Maia ministra a disciplina Comportamento Microbiano Em Alimentos E Modelagem Preditiva Aplicada (TAM54) para a turma PPGTA no formato Presencial.\nHorários:\n- Terca-feira: t5 (16:40-17:30) - Sala J31A",
+      "O professor Jairo Marlon Correa ministra a disciplina Conceitos E Aplicações De Propriedade Intelectual (PROFNIT01) para a turma PNIT no formato Presencial.\nHorários:\n- Sexta-feira: m5 (11:10-12:00) - Sala I48",
+      "O professor Joao Augusto Navarro Cossich ministra a disciplina Fundamentos De Matemática (MAT1001) para a turma BQ1 no formato Presencial."
+    ],
+    "ground_truth": [
+      "de manhã"
+    ],
+    "metadata": {
+      "embedding_model": "neuralmind-bert-base-portuguese-cased",
+      "process_time": 2.8210299015045166
+    }
+  },
+  {
+    "question": "Qual a turma e a sala da disciplina Teoria Da Computação?",
+    "answer": "CC5, Sala L15",
+    "contexts": [
+      "O professor Evando Carlos Pizzini ministra a disciplina Teoria Da Computação (COM1025) para a turma CC5 no formato Presencial.\nHorários:\n- Quinta-feira: t1 (13:00-13:50), t2 (13:50-14:40) - Sala L15\n- Segunda-feira: t1 (13:00-13:50), t2 (13:50-14:40), t3 (14:40-15:30) - Sala L15"
+    ],
+    "ground_truth": [
+      "Turma: CC5",
+      "Sala: L15"
+    ],
+    "metadata": {
+      "embedding_model": "neuralmind-bert-base-portuguese-cased",
+      "process_time": 1.1010003089904785
+    }
+  },
+  {
+    "question": "A qual departamento pertence o professor Aikes?",
+    "answer": "O professor Jorge Aikes Junior pertence ao departamento DACOM.",
+    "contexts": [
+      "O professor Jorge Aikes Junior pertence ao departamento DACOM e está ativo no período 2025/1.",
+      "O professor Carla Cristina Bem pertence ao departamento DAAMB e está ativo no período 2025/1.",
+      "O professor Giovana Clarice Poggere pertence ao departamento DAAMB e está ativo no período 2025/1.",
+      "O professor Eliana Maria Baldissera pertence ao departamento DAALM e está ativo no período 2025/1.",
+      "O professor Joice Maria Maltauro Juliano pertence ao departamento DAHLA e está ativo no período 2025/1."
+    ],
+    "ground_truth": [
+      "DACOM"
+    ],
+    "metadata": {
+      "embedding_model": "neuralmind-bert-base-portuguese-cased",
+      "process_time": 1.480966567993164
+    }
+  },
+  {
+    "question": "A qual departamento pertence o professor Jorge Aikes Junior?",
+    "answer": "DACOM",
+    "contexts": [
+      "O professor Jorge Aikes Junior pertence ao departamento DACOM e está ativo no período 2025/1.",
+      "O professor Jorge Aikes Junior ministra a disciplina Sistemas Inteligentes Aplicados (CC57A) para a turma CC7 no formato Presencial.\nHorários:\n- Quinta-feira: t4 (15:50-16:40), t5 (16:40-17:30) - Sala L16\n- Terca-feira: t4 (15:50-16:40), t5 (16:40-17:30) - Sala L16",
+      "O professor Jorge Aikes Junior ministra a disciplina Construção De Compiladores (CC57B) para a turma CC7 no formato Presencial.\nHorários:\n- Quinta-feira: t2 (13:50-14:40), t3 (14:40-15:30) - Sala L16\n- Terca-feira: t2 (13:50-14:40), t3 (14:40-15:30) - Sala L16",
+      "O professor Jorge Aikes Junior ministra a disciplina Realidade Virtual (OP63F) para a turma CC8 no formato Presencial.\nHorários:\n- Segunda-feira: m4 (10:20-11:10), m5 (11:10-12:00) - Sala L16\n- Terca-feira: m2 (08:20-09:10), m3 (09:10-10:00) - Sala L16"
+    ],
+    "ground_truth": [
+      "DACOM"
+    ],
+    "metadata": {
+      "embedding_model": "neuralmind-bert-base-portuguese-cased",
+      "process_time": 1.457998514175415
+    }
+  },
+  {
+    "question": "Quais as disciplinas o professor Jorge Aikes Junior ministra?",
+    "answer": "- CC57A\n- CC57B\n- OP63F",
+    "contexts": [
+      "O professor Jorge Aikes Junior pertence ao departamento DACOM e está ativo no período 2025/1.",
+      "O professor Jorge Aikes Junior ministra a disciplina Sistemas Inteligentes Aplicados (CC57A) para a turma CC7 no formato Presencial.\nHorários:\n- Quinta-feira: t4 (15:50-16:40), t5 (16:40-17:30) - Sala L16\n- Terca-feira: t4 (15:50-16:40), t5 (16:40-17:30) - Sala L16",
+      "O professor Jorge Aikes Junior ministra a disciplina Construção De Compiladores (CC57B) para a turma CC7 no formato Presencial.\nHorários:\n- Quinta-feira: t2 (13:50-14:40), t3 (14:40-15:30) - Sala L16\n- Terca-feira: t2 (13:50-14:40), t3 (14:40-15:30) - Sala L16",
+      "O professor Jorge Aikes Junior ministra a disciplina Realidade Virtual (OP63F) para a turma CC8 no formato Presencial.\nHorários:\n- Segunda-feira: m4 (10:20-11:10), m5 (11:10-12:00) - Sala L16\n- Terca-feira: m2 (08:20-09:10), m3 (09:10-10:00) - Sala L16"
+    ],
+    "ground_truth": [
+      "Construção De Compiladores",
+      "Realidade Virtual",
+      "Sistemas Inteligentes Aplicados"
+    ],
+    "metadata": {
+      "embedding_model": "neuralmind-bert-base-portuguese-cased",
+      "process_time": 2.4669997692108154
+    }
+  },
+  {
+    "question": "Qual professor ministra a disciplina de Realidade Virtual?",
+    "answer": "A informação não está disponível no contexto, por isso não posso responder essa pergunta.",
+    "contexts": [
+      "O professor Roger Borges ministra a disciplina Estrutura Da Matéria (QUI1009) para a turma BQ1 no formato Presencial.",
+      "O professor Paulo Cesar Tonin ministra a disciplina Desenho Técnico (MEC1008) para a turma TMI1 no formato Presencial.",
+      "O professor Davi Pereira Dos Santos ministra a disciplina Informática Instrumental (COM1001) para a turma AGR1 no formato Presencial.",
+      "O professor Paulo Cesar Tonin ministra a disciplina Desenho Técnico Assistido Por Computador (MEC1001) para a turma BQ2 no formato Presencial.",
+      "O professor Ismael Laurindo Costa Junior ministra a disciplina Mídias Na Educação (MTE1T) para a turma APU2025 no formato Presencial."
+    ],
+    "ground_truth": [
+      "Jorge Aikes Junior"
+    ],
+    "metadata": {
+      "embedding_model": "neuralmind-bert-base-portuguese-cased",
+      "process_time": 1.7670166492462158
+    }
+  }
+]

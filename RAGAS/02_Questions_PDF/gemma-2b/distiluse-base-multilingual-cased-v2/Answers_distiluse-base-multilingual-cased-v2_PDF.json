@@ -1,0 +1,147 @@
+[
+  {
+    "question": "Qual é a ementa da disciplina Redes de Computadores 1?",
+    "answer": "Conceitos, arquitetura e componentes de redes de computadores.",
+    "contexts": [
+      "Informações da disciplina CC55F Redes De Computadores 1. Carga Horária 60 Horas",
+      "Conhecer os conceitos, a arquitetura e componentes de redes de computadores.",
+      "Evolução das redes, Modelo em camadas OSI e TCP/IP, Arquiteturas das redes, Meios de comunicação de dados, Redes LAN e WAN, Padronização IEEE. Tecnologias Ethernet suas variantes. Conceitos de Switching. Protocolo IP, operação e endereçamento.",
+      "Conceituação de redes de computadores, Protocolos e serviços de comunicação. internet. O modelo do comunicação em Camadas. Tendências em Redes.",
+      "Meios de transmissão. A plataforma para comunicações. LANs, WAN,s e Redes Interconectadas. Meio Fios e Cabos de Cobre. Meio Comunicação sem fio. Meio Fibra óptica. Funções da Camada de Transporte. O protocolo TCP Comunicação com confiabilidade. Gerenciamento de",
+      "Camada de Transporte OSI, Princípios do protocolo TCP/IP. Sessões TCP. O Protocolo UDP Comunicação com Baixo Overhead. Protocolo IPv",
+      "4. Comunicação com camadas superior e inferior.",
+      "Camada de Rede OSI. Roteamento - Como Nossos Pacotes de Dados são Gerenciados. Processos de Roteamento: Como as Rotas são Aprendidas. Endereços IPv",
+      "4. Endereços pra",
+      "Endereçamento de Rede IPv",
+      "4. Propósitos Diferentes. Atribuição de Endereços. Endereçamento IP e Subrede. Teste da Camada de Rede.",
+      "Camada de Enlace. Camada de Enlace - Acesso ao Meio (mídia). Técnicas de Controle de Acesso ao Meio. Controle de Acesso ao Meio Endereçamento e Enquadramento de Dados. Subcamas LLC e MAC. Camada Física Sinais de Comunicação. Sinalização e",
+      "Camada Física do Modelo OSI. Codificação Física: Representação de Bits. Meios Físicos Conectando a Comunicação. Visão Geral Ethernet.",
+      "Ethernet. Ethernet/Fast/Giga Comunicação via LAN. O Quadro Ethernet. Controle de Acesso ao Meio Ethernet. Camada Física da Ethernet. Hubs e Switches. Protocolo de Resolução de Endereço (ARP). LANs Realizando a Conexão Física. Normas EIA/TIA. Cabling.",
+      "Padrões de redes. Padrões IEEE. Conceitos de cabeamento estruturados. Interconexões de Dispositivos.",
+      "FOROUZAN, Behrouz A. Comunicação de dados e redes de computadores. 4. ed. São Paulo, SP: McGraw-Hill, 2008. xxxiv, 1134 p. ISBN 9788586804885. TORRES, Gabriel. Redes de computadores. 2. ed. Rio de Janeiro, RJ: Novaterra, 2014. xxviii, 1004 p. ISBN 9788561893286. TANENBAUM, Andrew S.,; WETHERALL, D. Redes de computadores. 5. ed. São Paulo, SP: Pearson, 2011. xvi, 582 p. ISBN 9788576059240.",
+      "MAIA, Luiz Paulo. Arquitetura de redes de computadores. 2. ed. Rio de Janeiro, RJ: LTC, 2013. 272 p. ISBN 9788521622543. SPURGEON, Charles E.. Ethernet: o guia definitivo. Rio de Janeiro: Campus, 2000. 478p. ISBN 8535206590 Bibliografia Complementar OLIVEIRA, Gorki Starlin da Costa. Redes de computadores comunicação de dados TCP/IP: conceitos, protocolos e uso. Rio de Janeiro: Alta Books, 2004. 224p. ISBN 8576080567. FITZGERALD, Jerry; DENNIS, Alan. Comunicações de dados empresariais e redes. 10. ed. Rio de Janeiro, RJ: LTC, 2010. xv, 459 p. ISBN 9788521617747."
+    ],
+    "ground_truth": [
+      "Evolução das redes",
+      "Modelo em camadas OSI e TCP/IP",
+      "Arquiteturas das redes",
+      "Meios de comunicação de dados",
+      "Redes LAN e WAN",
+      "Padronização IEEE",
+      "Tecnologias Ethernet suas variantes",
+      "Conceitos de Switching",
+      "Protocolo IP",
+      "operação e endereçamento"
+    ],
+    "metadata": {
+      "embedding_model": "distiluse-base-multilingual-cased-v2",
+      "process_time": 4.013996601104736
+    }
+  },
+  {
+    "question": "Qual o nome da disciplina de Código OP63J?",
+    "answer": "O nome da disciplina não foi fornecido no contexto.",
+    "contexts": [
+      "Informações da disciplina OP63L Aplicações Para Dispositivos. Carga Horária 60 Horas",
+      "Compreender o ambiente de funcionamento de dispositivos móveis. Projetar aplicativos para dispositivos móveis. Implementar aplicativos para plataformas móveis.",
+      "Conceitos, tecnologias e modelos fundamentais da computação móvel. Plataformas para dispositivos móveis. Ferramentas para desenvolvimento de aplicativos móveis. Desenvolvimento de softwares para dispositivos móveis.",
+      "Conceitos, tecnologias e modelos fundamentais da computação móvel. Apresentação do conceito principal das tecnologias JME, Android, IOS e Windows Phone. Apresentação das principais",
+      "Plataformas para dispositivos móveis. plataformas para dispositivos móveis. Apresentação de modelos e",
+      "Ferramentas para desenvolvimento de ferramentas de desenvolvimento aplicativos móveis. para dispositivos móveis. Projetos e desenvolvimento de",
+      "Desenvolvimento de softwares para dispositivos móveis. sistemas para dispositivos móveis.",
+      "Boyer, Rick; Mew, Kyle. Android Application Development Cookbook - Second Edition. Series: Quick Answers to Common Problems. Edition: Second edition. Birmingham, UK : Packt Publishing. 2016. eBook. Bilgin, Can. Mastering Cross-Platform Development with Xamarin. Series: Community Experience Distilled. Birmingham, UK : Packt Publishing. 2016. eBook. Snider, Ed. Mastering Xamarin.Forms. Series: Community Experience Distilled. Birmingham, UK : Packt Publishing. 2016. eBook.",
+      "DEITEL, Paul, DEITEL, Harvey, WALD, Alexander. Android 6 para Programadores: Uma Abordagem Baseada em Aplicativos. [Minha Biblioteca]. DEITEL, Harvey, DEITEL, Paul, DEITEL, Abbey. Android: Como programar. [Minha Biblioteca]. MONK, Simon. Projetos com Arduino e Android:Use seu Smartphone ou Tablet para Controlar o Arduino - Série Tekne. [Minha Biblioteca]."
+    ],
+    "ground_truth": [
+      "Data Warehouse e Data Mining"
+    ],
+    "metadata": {
+      "embedding_model": "distiluse-base-multilingual-cased-v2",
+      "process_time": 2.000000238418579
+    }
+  },
+  {
+    "question": "Qual o nome da disciplina de Código CC56E?",
+    "answer": "CC56E Linguagem De Montagem",
+    "contexts": [
+      "Informações da disciplina CC54E Linguagem De Montagem. Carga Horária 45 Horas",
+      "Habilitar o aluno a conhecer as características dos computadores digitais em nível de arquitetura interna, especificação de hardware e sua evolução e seus problemas.",
+      "Estudo de linguagem de montagem e desenvolvimento de software básico. Estudo de conjuntos de instruções e modos de endereçamento. Implementação de construções de alto nível em linguagem de máquina.",
+      "Estudo de linguagem de montagem e desenvolvimento de software básico. Computacional: Unidade Central de Processamento, de Memória e de E/S; Conceitos de de máquina, montador, e tradutor; Organização de dados, Nibble, Byte, Word, DWord, QWord; Arquitetura",
+      "e seus registradores; Endereçamento de memória; Segmentos de memória e deslocamento; A linguagem Assembly",
+      "8086; Interrupções. Caracteristicas das instruções de máquina; Tipos de operandos; Tipos de dados Intel x",
+      "86; Tipos de",
+      "Estudo de conjuntos de instruções e modos de endereçamento. operações Intel x",
+      "86; Modos de Endereçamento: Imediato, Direto, Indireto, Por registrador, Indireto via registrador, Por deslocamento; Formato das instruções. Programação básica; Saltos,",
+      "Implementação de construções de alto nível em linguagem de máquina. decisões e repetições; Manipulação de cadeias; Pilha de execução e passagem de parâmetros; Chamada de procedimentos; Programação de entrada e saída; Utilização de macros; Interação com o Sistema Operacional (interrupções).",
+      "PANNAIN, Ricardo; BEHRENS, Frank Herman; PIVA JÚNIOR, Dilermano. Organização básica de computadores e linguagem de montagem. Rio de Janeiro, RJ: Elsevier, 2012. 408 p. ISBN 9788535250213. WEBER, Raul Fernando. Fundamentos de arquitetura de computadores. 2. ed. Porto Alegre: Instituto de Informática da UFRGS: Sagra Luzzatto, 2001 299p. (Livros didáticos 8) ISBN 8524106352. DALE, Nell B.; LEWIS, John. Ciência da computação. 4. ed. Rio de Janeiro, RJ: LTC, 2011. xx, 436 p. ISBN 9788521617419.",
+      "PEREIRA, Fábio. Microcontroladores PIC: programação em C. 7. ed. São Paulo, SP: Érica, 2007. 358 p. ISBN 978-85-7194- 935-5. HYDE, Randall. The art of assembly language. 2. ed. San Francisco: No Starch Press, 2010. xix, 732 p. ISBN 9781593272074. SOUZA, David José de; LAVINIA, Nicolás César. Conectando o PIC 16F877A: recursos avançados. 4. ed. São Paulo: Érica, 2007. 380 p. ISBN 85-7194-737-6. MURDOCA, Miles J.; HEURING, Vincent P. Introdução à arquitetura de computadores. Rio de Janeiro: Campus, 2000. xxii, 512 p. ISBN 85-352-0684-1. BLUM, Richard. Professional assembly language. Indianapolis, IN: Wiley, 2005. 546 p. (Informática) ISBN 9780764579011 ."
+    ],
+    "ground_truth": [
+      "Aspectos Formais da Computação"
+    ],
+    "metadata": {
+      "embedding_model": "distiluse-base-multilingual-cased-v2",
+      "process_time": 3.0049846172332764
+    }
+  },
+  {
+    "question": "Quais os tópicos do conteúdo programático da disciplina Segurança Em Redes De Computadores?",
+    "answer": "Os tópicos do conteúdo programático da disciplina são:\n\n* Segurança de dados e criptologia\n* Criptografia Chave publica e Simétrica\n* Segurança Digital\n* Normas e padrões de segurança\n* Métodos de criptografia e criptoanálise\n* Auntenização de dados\n* Assinatura Criptográfica",
+    "contexts": [
+      "Informações da disciplina CC57D Segurança Em Redes De Computadores. Carga Horária 45 Horas",
+      "Estudo de aspectos concretos da Segurança da Informação, notadamente as mais intensivas em mecanismos criptográficos, e aplicações às redes de computadores",
+      "Segurança de dados e criptologia. Segurança digital. Métodos tradicionais de criptografia e criptoanálise. Certificação e assinatura digital. Listas de Controle de Acesso. Ferramentas de gerência. Medidas de desempenho.",
+      "Segurança de Dados e Criptologia. Criptografia Chave publica e Simétrica.",
+      "Segurança Digital. Confiabilidade e Integridade dos dados. Autenticidade de Documentos. Normas e padrões de Segurança.",
+      "Métodos de criptografia e criptoanálise. Autenticação de dados. Assinatura Criptográfica.",
+      "Implementação de Firewall. Proteção de Dispositivos de rede. Segurança em autenticação IP e Web. Ferramentas de Gerência.",
+      "Gerência e Desempenho. Procedimentos de Segurança. Medidas de Desempenho.",
+      "RUFINO, Nelson Murilo de O.. Segurança nacional: técnicas e ferramentas de ataque e defesa de redes de computadores. São Paulo: Novatec, 2002 248p. ISBN 8575220152 STALLINGS, William. Criptografia e segurança de redes: princípios e práticas . 4. ed. São Paulo, SP: Pearson Prentice Hall, 2008. xvii, 492 p. ISBN 9788576051190. CARVALHO, Luciano Gonçalves de. Segurança de redes. Rio de Janeiro: Ciência Moderna, 2005. 79 p. ISBN 8573934379.",
+      "RUFINO, Nelson Murilo de O. Segurança em redes sem fio: aprenda a proteger suas informações em ambientes Wi-fi e Bluetooth. 3. ed. São Paulo, SP: Novatec, 2011. 237 p. ISBN 9788575222430. TERADA, Routo. Segurança de dados: criptografia em redes de computador. 2. ed. rev. ampl. São Paulo, SP: Blucher, 2008. 306 p. ISBN 9788521204398. CHAPPELL, Laura; FARKAS, Dan. Diagnosticando redes: Cisco internetwork troubleshooting. São Paulo, SP: Pearson Education, 2003. xvii, 583 p. ISBN 8534614946. STREBE, Matthew; PERKINS, Charles. Firewalls. São Paulo: Makron, 2002 411 p. ISBN 85-346-1311-7 WEBB, Karen. Construindo redes Cisco usando comutação multicamadas. São Paulo: Pearson Education do Brasil, 2003. xxi, 408 p. ISBN 8534615012."
+    ],
+    "ground_truth": [
+      "1 - Segurança de Dados e Criptologia.",
+      "2 - Segurança Digital.",
+      "3 - Métodos de criptografia e criptoanálise.",
+      "4 - Implementação de Firewall.",
+      "5 - Gerência e Desempenho."
+    ],
+    "metadata": {
+      "embedding_model": "distiluse-base-multilingual-cased-v2",
+      "process_time": 6.566001892089844
+    }
+  },
+  {
+    "question": "Qual a bibliografia básica da disciplina Redes Neurais Artificiais?",
+    "answer": "A bibliografia básica da disciplina é \"Deep Learning\" por Ian Goodfellow, Yoshua Bengio e Aaron Courville (2016) e \"Neural Networks for Pattern Recognition\" por Stuart Russell e Peter Norvig (2002).",
+    "contexts": [
+      "Informações da disciplina OP63P Redes Neurais Artificiais. Carga Horária 60 Horas",
+      "Compreender, manipular e projetar diferentes arquiteturas de Redes Neurais Artificiais. Ao final da disciplina o aluno deve estar capacitado a entender e aplicar Redes Neurais Artificiais nas diversas áreas de aplicação desta área de pesquisa.",
+      "História das redes neurais. O modelo Perceptron. Redes MultiLayer Perceptrons clássicas. Funções de ativação neural. Funções de custo. Redes Profundas. Redes recorrentes. Redes convolucionais. Redes Gerativas Adversárias. Algoritmo Gradiente Descendente. Algoritmo BackPropagation. Aplicações avançadas de redes neurais.",
+      "História das redes neurais. Evolução da área nos séculos XX e XXI.",
+      "O modelo Perceptron. Sinapses (pesos), biases, potencial de ativação. Somador e ativação Perceptron. Problemas linearmente separáveis e lógicos. Treinamento Perceptron. Redes Multicamada. Aproximadores Universais de Função. Espaço de Instâncias. Problemas Não-",
+      "Redes MultiLayer Perceptrons clássicas. linearmente separáveis. Poder generalizador das redes em relação ao número de camadas.",
+      "Funções de ativação neural. Funções Linear, Passo, Sigmoide Logística, Tangente Hiperbólica, ReLU e suas variantes.",
+      "Funções de custo. Erros Quadráticos Médios e Entropia Cruzada. Problema da dissipação do gradiente e técnicas para combatê-lo.",
+      "Redes profundas. Problema da dimensionalidade e sua mitigação. Aprendizado por manifolds.",
+      "Redes Recorrentes. Redes recorrentes clássicas. Redes inspiradas em portas eletrônicas. Redes de Memória de Longo e Curto Prazo (LSTM). Hierarquia de Conceitos. Aplicações de redes neurais na visão",
+      "Redes Convolucionais. computacional. Arquiteturas convolucionais (ex: Inception e ResNets).",
+      "Redes Gerativas Adversárias. Sub-rede discriminativa. Sub-rede gerativa. Aplicações de redes gerativas. Funcionamento do Algoritmo.",
+      "Algoritmo Gradiente Descendente. Cálculo do Gradiente. Espaço de hipóteses. Descida de encosta. Mínimos locais e globais.",
+      "Algoritmo BackPropagation. Fase forward. Fase backward. Ajuste pesos e biases. Autoencoders, geradores de",
+      "Aplicações avançadas de redes neurais. Embedding. Representação Distribuída do Conhecimento.",
+      "KOVÁCS, Zsolt Lászlo. Redes neurais artificiais: fundamentos e aplicações : um texto básico . 4. ed. São Paulo: Livraria da Física, 2006. 174 p. ISBN 8588325144. GOODFELLOW, I.; BENGIO, Y.; ; COURVILLE, A. Deep learning. [S.l.]: MIT press Cambridge, 2016. HAYKIN, Simon S. Redes neurais: princípios e prática. 2. ed. Porto Alegre, RS: Bookman, 2001. 900 p. ISBN 9788573077186.",
+      "FACELI, Katti; LORENA, Ana Carolina; GAMA, João; CARVALHO, André Carlos Ponce de Leon Ferreira. Inteligência artificial: uma abordagem de aprendizagem de máquina. Rio de Janeiro, RJ: LTC, c2011. 378 p. ISBN 9788521618805. BISHOP, Christopher M. Neural networks for pattern recognition. New York, US: Oxford University, 2002. xvii, 482 p. ISBN 9780198538646. RUSSELL, Stuart J.; NORVIG, Peter. Inteligência artificial. Rio de Janeiro, RJ: Elsevier, 2013. 988 p. ISBN 9788535237016."
+    ],
+    "ground_truth": [
+      "KOVÁCS, Zsolt Lászlo. Redes neurais artificiais: fundamentos e aplicações : um texto básico . 4. ed. São Paulo: Livraria da Física, 2006. 174 p. ISBN 8588325144.",
+      "GOODFELLOW, I.; BENGIO, Y.; ; COURVILLE, A. Deep learning. [S.l.]: MIT press Cambridge, 2016.",
+      "HAYKIN, Simon S. Redes neurais: princípios e prática. 2. ed. Porto Alegre, RS: Bookman, 2001. 900 p. ISBN 9788573077186."
+    ],
+    "metadata": {
+      "embedding_model": "distiluse-base-multilingual-cased-v2",
+      "process_time": 5.851000070571899
+    }
+  }
+]
